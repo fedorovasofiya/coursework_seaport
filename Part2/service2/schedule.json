@@ -1,0 +1,5608 @@
+[ {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 27,
+  "name" : "lijwudembq",
+  "cargo" : "LIQUID",
+  "weight" : 56152,
+  "periodMin" : 14038
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 144,
+  "name" : "lbjbca",
+  "cargo" : "LIQUID",
+  "weight" : 50243,
+  "periodMin" : 12560
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 144,
+  "name" : "uosmotvn",
+  "cargo" : "LIQUID",
+  "weight" : 41286,
+  "periodMin" : 10321
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 163,
+  "name" : "ouz",
+  "cargo" : "CONTAINER",
+  "weight" : 42352,
+  "periodMin" : 10588
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 217,
+  "name" : "bsx",
+  "cargo" : "CONTAINER",
+  "weight" : 58880,
+  "periodMin" : 14720
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 236,
+  "name" : "lnbddbhbc",
+  "cargo" : "BULK",
+  "weight" : 31180,
+  "periodMin" : 7795
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 238,
+  "name" : "ricegdd",
+  "cargo" : "BULK",
+  "weight" : 54648,
+  "periodMin" : 13662
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 262,
+  "name" : "ajlboj",
+  "cargo" : "BULK",
+  "weight" : 50605,
+  "periodMin" : 12651
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 352,
+  "name" : "zbycxfg",
+  "cargo" : "CONTAINER",
+  "weight" : 47718,
+  "periodMin" : 11929
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 477,
+  "name" : "ihngp",
+  "cargo" : "CONTAINER",
+  "weight" : 42196,
+  "periodMin" : 10549
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 559,
+  "name" : "gyfcfzpy",
+  "cargo" : "BULK",
+  "weight" : 56519,
+  "periodMin" : 14129
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 625,
+  "name" : "hmfxdcfzws",
+  "cargo" : "CONTAINER",
+  "weight" : 39314,
+  "periodMin" : 9828
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 633,
+  "name" : "xlvyew",
+  "cargo" : "BULK",
+  "weight" : 36234,
+  "periodMin" : 9058
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 649,
+  "name" : "svaw",
+  "cargo" : "BULK",
+  "weight" : 38993,
+  "periodMin" : 9748
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 655,
+  "name" : "ndga",
+  "cargo" : "CONTAINER",
+  "weight" : 57754,
+  "periodMin" : 14438
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 713,
+  "name" : "tnnsuozst",
+  "cargo" : "BULK",
+  "weight" : 43414,
+  "periodMin" : 10853
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 774,
+  "name" : "imwwcsq",
+  "cargo" : "BULK",
+  "weight" : 50687,
+  "periodMin" : 12671
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 797,
+  "name" : "geyiu",
+  "cargo" : "BULK",
+  "weight" : 30224,
+  "periodMin" : 7556
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 803,
+  "name" : "gxhqqrvdgy",
+  "cargo" : "CONTAINER",
+  "weight" : 50767,
+  "periodMin" : 12691
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 894,
+  "name" : "knxua",
+  "cargo" : "CONTAINER",
+  "weight" : 32445,
+  "periodMin" : 8111
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 952,
+  "name" : "lskyeqde",
+  "cargo" : "BULK",
+  "weight" : 42132,
+  "periodMin" : 10533
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 1006,
+  "name" : "lyek",
+  "cargo" : "CONTAINER",
+  "weight" : 35101,
+  "periodMin" : 8775
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 1025,
+  "name" : "wjnh",
+  "cargo" : "LIQUID",
+  "weight" : 41017,
+  "periodMin" : 10254
+}, {
+  "arrivalDay" : 0,
+  "arrivalTimeMin" : 1214,
+  "name" : "hxl",
+  "cargo" : "LIQUID",
+  "weight" : 34804,
+  "periodMin" : 8701
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 38,
+  "name" : "fhlqd",
+  "cargo" : "LIQUID",
+  "weight" : 32764,
+  "periodMin" : 8191
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 249,
+  "name" : "dpvvsdggah",
+  "cargo" : "LIQUID",
+  "weight" : 37746,
+  "periodMin" : 9436
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 260,
+  "name" : "gdjaviihew",
+  "cargo" : "LIQUID",
+  "weight" : 48249,
+  "periodMin" : 12062
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 351,
+  "name" : "ckfwmdecp",
+  "cargo" : "LIQUID",
+  "weight" : 40557,
+  "periodMin" : 10139
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 433,
+  "name" : "qldxsglynr",
+  "cargo" : "CONTAINER",
+  "weight" : 44781,
+  "periodMin" : 11195
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 501,
+  "name" : "vbil",
+  "cargo" : "CONTAINER",
+  "weight" : 34113,
+  "periodMin" : 8528
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 512,
+  "name" : "ojhnm",
+  "cargo" : "BULK",
+  "weight" : 52153,
+  "periodMin" : 13038
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 527,
+  "name" : "coh",
+  "cargo" : "LIQUID",
+  "weight" : 34556,
+  "periodMin" : 8639
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 678,
+  "name" : "vbvmtu",
+  "cargo" : "BULK",
+  "weight" : 56165,
+  "periodMin" : 14041
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 717,
+  "name" : "rzsl",
+  "cargo" : "CONTAINER",
+  "weight" : 47220,
+  "periodMin" : 11805
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 771,
+  "name" : "ohmhjoccfr",
+  "cargo" : "LIQUID",
+  "weight" : 37393,
+  "periodMin" : 9348
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 821,
+  "name" : "ewzzi",
+  "cargo" : "LIQUID",
+  "weight" : 56420,
+  "periodMin" : 14105
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 870,
+  "name" : "nhdyhrxuqz",
+  "cargo" : "LIQUID",
+  "weight" : 46926,
+  "periodMin" : 11731
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 910,
+  "name" : "nsmnxuo",
+  "cargo" : "CONTAINER",
+  "weight" : 56699,
+  "periodMin" : 14174
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1039,
+  "name" : "kmj",
+  "cargo" : "LIQUID",
+  "weight" : 43981,
+  "periodMin" : 10995
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1045,
+  "name" : "bavj",
+  "cargo" : "BULK",
+  "weight" : 38483,
+  "periodMin" : 9620
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1062,
+  "name" : "ewhpps",
+  "cargo" : "LIQUID",
+  "weight" : 35835,
+  "periodMin" : 8958
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1083,
+  "name" : "ogg",
+  "cargo" : "BULK",
+  "weight" : 34181,
+  "periodMin" : 8545
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1103,
+  "name" : "qrqlvecrfe",
+  "cargo" : "BULK",
+  "weight" : 54904,
+  "periodMin" : 13726
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1124,
+  "name" : "gtk",
+  "cargo" : "CONTAINER",
+  "weight" : 32581,
+  "periodMin" : 8145
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1141,
+  "name" : "rmvjyo",
+  "cargo" : "LIQUID",
+  "weight" : 36769,
+  "periodMin" : 9192
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1142,
+  "name" : "trsmjmxcs",
+  "cargo" : "CONTAINER",
+  "weight" : 48872,
+  "periodMin" : 12218
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1161,
+  "name" : "ysglyz",
+  "cargo" : "BULK",
+  "weight" : 55809,
+  "periodMin" : 13952
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1241,
+  "name" : "zwkfghxeu",
+  "cargo" : "CONTAINER",
+  "weight" : 45802,
+  "periodMin" : 11450
+}, {
+  "arrivalDay" : 1,
+  "arrivalTimeMin" : 1279,
+  "name" : "yfgca",
+  "cargo" : "BULK",
+  "weight" : 54696,
+  "periodMin" : 13674
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 86,
+  "name" : "tmkc",
+  "cargo" : "CONTAINER",
+  "weight" : 59216,
+  "periodMin" : 14804
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 162,
+  "name" : "yphu",
+  "cargo" : "CONTAINER",
+  "weight" : 46357,
+  "periodMin" : 11589
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 174,
+  "name" : "cre",
+  "cargo" : "BULK",
+  "weight" : 47134,
+  "periodMin" : 11783
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 213,
+  "name" : "wolupxb",
+  "cargo" : "LIQUID",
+  "weight" : 41249,
+  "periodMin" : 10312
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 234,
+  "name" : "pcr",
+  "cargo" : "LIQUID",
+  "weight" : 33744,
+  "periodMin" : 8436
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 241,
+  "name" : "hmfslvh",
+  "cargo" : "CONTAINER",
+  "weight" : 38538,
+  "periodMin" : 9634
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 282,
+  "name" : "zudyrutpqu",
+  "cargo" : "LIQUID",
+  "weight" : 48934,
+  "periodMin" : 12233
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 440,
+  "name" : "jhdobwihr",
+  "cargo" : "BULK",
+  "weight" : 37452,
+  "periodMin" : 9363
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 447,
+  "name" : "zyyui",
+  "cargo" : "BULK",
+  "weight" : 41796,
+  "periodMin" : 10449
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 553,
+  "name" : "pbpm",
+  "cargo" : "CONTAINER",
+  "weight" : 59505,
+  "periodMin" : 14876
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 645,
+  "name" : "ytayjgimjp",
+  "cargo" : "BULK",
+  "weight" : 38440,
+  "periodMin" : 9610
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 652,
+  "name" : "yclkm",
+  "cargo" : "LIQUID",
+  "weight" : 51085,
+  "periodMin" : 12771
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 714,
+  "name" : "crguglza",
+  "cargo" : "BULK",
+  "weight" : 53763,
+  "periodMin" : 13440
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 743,
+  "name" : "pwvgqg",
+  "cargo" : "LIQUID",
+  "weight" : 31511,
+  "periodMin" : 7877
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 782,
+  "name" : "kmlrjbe",
+  "cargo" : "CONTAINER",
+  "weight" : 36982,
+  "periodMin" : 9245
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 866,
+  "name" : "rsx",
+  "cargo" : "CONTAINER",
+  "weight" : 59802,
+  "periodMin" : 14950
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1013,
+  "name" : "stx",
+  "cargo" : "LIQUID",
+  "weight" : 48810,
+  "periodMin" : 12202
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1052,
+  "name" : "paw",
+  "cargo" : "BULK",
+  "weight" : 42115,
+  "periodMin" : 10528
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1077,
+  "name" : "xvfcy",
+  "cargo" : "BULK",
+  "weight" : 49301,
+  "periodMin" : 12325
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1093,
+  "name" : "jufpnewa",
+  "cargo" : "CONTAINER",
+  "weight" : 39994,
+  "periodMin" : 9998
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1155,
+  "name" : "hhqxn",
+  "cargo" : "CONTAINER",
+  "weight" : 39847,
+  "periodMin" : 9961
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1313,
+  "name" : "bygaywd",
+  "cargo" : "BULK",
+  "weight" : 32643,
+  "periodMin" : 8160
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1338,
+  "name" : "wsox",
+  "cargo" : "BULK",
+  "weight" : 38067,
+  "periodMin" : 9516
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1390,
+  "name" : "kzu",
+  "cargo" : "CONTAINER",
+  "weight" : 39095,
+  "periodMin" : 9773
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1401,
+  "name" : "nwsnjwebdy",
+  "cargo" : "BULK",
+  "weight" : 30036,
+  "periodMin" : 7509
+}, {
+  "arrivalDay" : 2,
+  "arrivalTimeMin" : 1414,
+  "name" : "pfczwjii",
+  "cargo" : "BULK",
+  "weight" : 51459,
+  "periodMin" : 12864
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 16,
+  "name" : "yvsovzuu",
+  "cargo" : "BULK",
+  "weight" : 51806,
+  "periodMin" : 12951
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 114,
+  "name" : "smgzwhgy",
+  "cargo" : "LIQUID",
+  "weight" : 44181,
+  "periodMin" : 11045
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 128,
+  "name" : "xfybtm",
+  "cargo" : "LIQUID",
+  "weight" : 31387,
+  "periodMin" : 7846
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 173,
+  "name" : "pqwiwirx",
+  "cargo" : "LIQUID",
+  "weight" : 53648,
+  "periodMin" : 13412
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 199,
+  "name" : "bburzdd",
+  "cargo" : "BULK",
+  "weight" : 39051,
+  "periodMin" : 9762
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 278,
+  "name" : "dmrl",
+  "cargo" : "BULK",
+  "weight" : 51158,
+  "periodMin" : 12789
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 340,
+  "name" : "jeyyzdx",
+  "cargo" : "BULK",
+  "weight" : 54171,
+  "periodMin" : 13542
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 428,
+  "name" : "omxut",
+  "cargo" : "LIQUID",
+  "weight" : 39275,
+  "periodMin" : 9818
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 442,
+  "name" : "uzwpltjm",
+  "cargo" : "BULK",
+  "weight" : 48218,
+  "periodMin" : 12054
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 508,
+  "name" : "qqjfmnjoke",
+  "cargo" : "BULK",
+  "weight" : 34865,
+  "periodMin" : 8716
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 528,
+  "name" : "armzqwfyyx",
+  "cargo" : "BULK",
+  "weight" : 47091,
+  "periodMin" : 11772
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 638,
+  "name" : "udhwfi",
+  "cargo" : "LIQUID",
+  "weight" : 47265,
+  "periodMin" : 11816
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 663,
+  "name" : "vdeu",
+  "cargo" : "BULK",
+  "weight" : 53541,
+  "periodMin" : 13385
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 676,
+  "name" : "rcfrahqq",
+  "cargo" : "CONTAINER",
+  "weight" : 34563,
+  "periodMin" : 8640
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 677,
+  "name" : "zpmadh",
+  "cargo" : "CONTAINER",
+  "weight" : 30361,
+  "periodMin" : 7590
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 788,
+  "name" : "zbvp",
+  "cargo" : "CONTAINER",
+  "weight" : 32474,
+  "periodMin" : 8118
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 799,
+  "name" : "vum",
+  "cargo" : "LIQUID",
+  "weight" : 57959,
+  "periodMin" : 14489
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 837,
+  "name" : "ptmzt",
+  "cargo" : "CONTAINER",
+  "weight" : 56003,
+  "periodMin" : 14000
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 869,
+  "name" : "udv",
+  "cargo" : "CONTAINER",
+  "weight" : 44204,
+  "periodMin" : 11051
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 955,
+  "name" : "odmztci",
+  "cargo" : "BULK",
+  "weight" : 59001,
+  "periodMin" : 14750
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1078,
+  "name" : "citqygr",
+  "cargo" : "BULK",
+  "weight" : 31572,
+  "periodMin" : 7893
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1082,
+  "name" : "hao",
+  "cargo" : "LIQUID",
+  "weight" : 40937,
+  "periodMin" : 10234
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1094,
+  "name" : "vqplbqampl",
+  "cargo" : "BULK",
+  "weight" : 38708,
+  "periodMin" : 9677
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1210,
+  "name" : "lzvsrgee",
+  "cargo" : "BULK",
+  "weight" : 36235,
+  "periodMin" : 9058
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1262,
+  "name" : "depgtbbtqk",
+  "cargo" : "BULK",
+  "weight" : 46087,
+  "periodMin" : 11521
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1268,
+  "name" : "bjnkrs",
+  "cargo" : "CONTAINER",
+  "weight" : 44172,
+  "periodMin" : 11043
+}, {
+  "arrivalDay" : 3,
+  "arrivalTimeMin" : 1273,
+  "name" : "jcvtddns",
+  "cargo" : "CONTAINER",
+  "weight" : 45447,
+  "periodMin" : 11361
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 71,
+  "name" : "jlc",
+  "cargo" : "CONTAINER",
+  "weight" : 34507,
+  "periodMin" : 8626
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 96,
+  "name" : "zcyugzlc",
+  "cargo" : "LIQUID",
+  "weight" : 49959,
+  "periodMin" : 12489
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 98,
+  "name" : "isfde",
+  "cargo" : "BULK",
+  "weight" : 59812,
+  "periodMin" : 14953
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 145,
+  "name" : "ozs",
+  "cargo" : "CONTAINER",
+  "weight" : 52177,
+  "periodMin" : 13044
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 226,
+  "name" : "fuqhvm",
+  "cargo" : "BULK",
+  "weight" : 51928,
+  "periodMin" : 12982
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 402,
+  "name" : "oivjtl",
+  "cargo" : "CONTAINER",
+  "weight" : 31475,
+  "periodMin" : 7868
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 454,
+  "name" : "miwhbhpnpo",
+  "cargo" : "LIQUID",
+  "weight" : 50810,
+  "periodMin" : 12702
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 499,
+  "name" : "hkui",
+  "cargo" : "CONTAINER",
+  "weight" : 37826,
+  "periodMin" : 9456
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 502,
+  "name" : "jyniga",
+  "cargo" : "BULK",
+  "weight" : 58029,
+  "periodMin" : 14507
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 569,
+  "name" : "prsyf",
+  "cargo" : "BULK",
+  "weight" : 33151,
+  "periodMin" : 8287
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 582,
+  "name" : "crtwpz",
+  "cargo" : "BULK",
+  "weight" : 59054,
+  "periodMin" : 14763
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 584,
+  "name" : "vmsnbgm",
+  "cargo" : "BULK",
+  "weight" : 37751,
+  "periodMin" : 9437
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 680,
+  "name" : "raoiqwux",
+  "cargo" : "LIQUID",
+  "weight" : 42854,
+  "periodMin" : 10713
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 704,
+  "name" : "rhg",
+  "cargo" : "BULK",
+  "weight" : 39845,
+  "periodMin" : 9961
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 830,
+  "name" : "bintggy",
+  "cargo" : "LIQUID",
+  "weight" : 48422,
+  "periodMin" : 12105
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1048,
+  "name" : "lbjeirteju",
+  "cargo" : "BULK",
+  "weight" : 51157,
+  "periodMin" : 12789
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1074,
+  "name" : "hmlrmde",
+  "cargo" : "CONTAINER",
+  "weight" : 59512,
+  "periodMin" : 14878
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1077,
+  "name" : "lxytggjnki",
+  "cargo" : "BULK",
+  "weight" : 49777,
+  "periodMin" : 12444
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1104,
+  "name" : "dlclkupaj",
+  "cargo" : "CONTAINER",
+  "weight" : 37251,
+  "periodMin" : 9312
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1261,
+  "name" : "fhwwhrqls",
+  "cargo" : "CONTAINER",
+  "weight" : 35072,
+  "periodMin" : 8768
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1265,
+  "name" : "kjwe",
+  "cargo" : "BULK",
+  "weight" : 36868,
+  "periodMin" : 9217
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1303,
+  "name" : "iyvtbit",
+  "cargo" : "LIQUID",
+  "weight" : 43180,
+  "periodMin" : 10795
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1305,
+  "name" : "vlrps",
+  "cargo" : "BULK",
+  "weight" : 56021,
+  "periodMin" : 14005
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1313,
+  "name" : "zhkudn",
+  "cargo" : "LIQUID",
+  "weight" : 55113,
+  "periodMin" : 13778
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1324,
+  "name" : "gidzt",
+  "cargo" : "LIQUID",
+  "weight" : 45925,
+  "periodMin" : 11481
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1371,
+  "name" : "jeiod",
+  "cargo" : "BULK",
+  "weight" : 54839,
+  "periodMin" : 13709
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1417,
+  "name" : "ebfgsesh",
+  "cargo" : "CONTAINER",
+  "weight" : 52893,
+  "periodMin" : 13223
+}, {
+  "arrivalDay" : 4,
+  "arrivalTimeMin" : 1433,
+  "name" : "zwpxluxiq",
+  "cargo" : "CONTAINER",
+  "weight" : 34208,
+  "periodMin" : 8552
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 30,
+  "name" : "kkrpp",
+  "cargo" : "CONTAINER",
+  "weight" : 33879,
+  "periodMin" : 8469
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 39,
+  "name" : "osflu",
+  "cargo" : "BULK",
+  "weight" : 45083,
+  "periodMin" : 11270
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 233,
+  "name" : "yhjthdsbue",
+  "cargo" : "CONTAINER",
+  "weight" : 50538,
+  "periodMin" : 12634
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 259,
+  "name" : "oquadm",
+  "cargo" : "LIQUID",
+  "weight" : 44284,
+  "periodMin" : 11071
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 339,
+  "name" : "bum",
+  "cargo" : "BULK",
+  "weight" : 58090,
+  "periodMin" : 14522
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 376,
+  "name" : "npt",
+  "cargo" : "LIQUID",
+  "weight" : 35585,
+  "periodMin" : 8896
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 440,
+  "name" : "jpjxvrogi",
+  "cargo" : "CONTAINER",
+  "weight" : 42174,
+  "periodMin" : 10543
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 474,
+  "name" : "ybzzpgzlc",
+  "cargo" : "CONTAINER",
+  "weight" : 32251,
+  "periodMin" : 8062
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 523,
+  "name" : "zmei",
+  "cargo" : "BULK",
+  "weight" : 33153,
+  "periodMin" : 8288
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 565,
+  "name" : "sckksgooz",
+  "cargo" : "LIQUID",
+  "weight" : 51141,
+  "periodMin" : 12785
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 833,
+  "name" : "emzgdjbfg",
+  "cargo" : "CONTAINER",
+  "weight" : 41107,
+  "periodMin" : 10276
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 853,
+  "name" : "ivpkheln",
+  "cargo" : "BULK",
+  "weight" : 51309,
+  "periodMin" : 12827
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 931,
+  "name" : "abpqy",
+  "cargo" : "BULK",
+  "weight" : 39581,
+  "periodMin" : 9895
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 945,
+  "name" : "poirvil",
+  "cargo" : "BULK",
+  "weight" : 48215,
+  "periodMin" : 12053
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1044,
+  "name" : "iyf",
+  "cargo" : "CONTAINER",
+  "weight" : 56081,
+  "periodMin" : 14020
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1053,
+  "name" : "tlgvwnio",
+  "cargo" : "BULK",
+  "weight" : 48108,
+  "periodMin" : 12027
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1192,
+  "name" : "qpaqshz",
+  "cargo" : "BULK",
+  "weight" : 56324,
+  "periodMin" : 14081
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1220,
+  "name" : "norb",
+  "cargo" : "BULK",
+  "weight" : 44715,
+  "periodMin" : 11178
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1304,
+  "name" : "ism",
+  "cargo" : "LIQUID",
+  "weight" : 59014,
+  "periodMin" : 14753
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1304,
+  "name" : "rrryykb",
+  "cargo" : "LIQUID",
+  "weight" : 55433,
+  "periodMin" : 13858
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1335,
+  "name" : "mpeit",
+  "cargo" : "LIQUID",
+  "weight" : 35835,
+  "periodMin" : 8958
+}, {
+  "arrivalDay" : 5,
+  "arrivalTimeMin" : 1367,
+  "name" : "idxjmom",
+  "cargo" : "BULK",
+  "weight" : 32228,
+  "periodMin" : 8057
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 62,
+  "name" : "fkehuzn",
+  "cargo" : "LIQUID",
+  "weight" : 40080,
+  "periodMin" : 10020
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 162,
+  "name" : "ikgcnwt",
+  "cargo" : "BULK",
+  "weight" : 43598,
+  "periodMin" : 10899
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 168,
+  "name" : "rnjv",
+  "cargo" : "LIQUID",
+  "weight" : 31790,
+  "periodMin" : 7947
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 179,
+  "name" : "fwqdhardw",
+  "cargo" : "BULK",
+  "weight" : 36582,
+  "periodMin" : 9145
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 204,
+  "name" : "ayc",
+  "cargo" : "CONTAINER",
+  "weight" : 45117,
+  "periodMin" : 11279
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 302,
+  "name" : "eyzrhfpgs",
+  "cargo" : "LIQUID",
+  "weight" : 51127,
+  "periodMin" : 12781
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 308,
+  "name" : "fig",
+  "cargo" : "LIQUID",
+  "weight" : 52640,
+  "periodMin" : 13160
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 392,
+  "name" : "ayehgfkydw",
+  "cargo" : "BULK",
+  "weight" : 33625,
+  "periodMin" : 8406
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 448,
+  "name" : "mkne",
+  "cargo" : "LIQUID",
+  "weight" : 36835,
+  "periodMin" : 9208
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 471,
+  "name" : "nlhnmvelh",
+  "cargo" : "BULK",
+  "weight" : 54116,
+  "periodMin" : 13529
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 472,
+  "name" : "ptgemqwub",
+  "cargo" : "LIQUID",
+  "weight" : 48257,
+  "periodMin" : 12064
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 482,
+  "name" : "uekheivzm",
+  "cargo" : "CONTAINER",
+  "weight" : 39012,
+  "periodMin" : 9753
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 491,
+  "name" : "supqhaqmyy",
+  "cargo" : "BULK",
+  "weight" : 32741,
+  "periodMin" : 8185
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 558,
+  "name" : "dgoqjtnj",
+  "cargo" : "BULK",
+  "weight" : 59757,
+  "periodMin" : 14939
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 682,
+  "name" : "uro",
+  "cargo" : "BULK",
+  "weight" : 37410,
+  "periodMin" : 9352
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 694,
+  "name" : "plyvbslpuv",
+  "cargo" : "BULK",
+  "weight" : 51822,
+  "periodMin" : 12955
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 829,
+  "name" : "mkxbhhyygl",
+  "cargo" : "CONTAINER",
+  "weight" : 35589,
+  "periodMin" : 8897
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 946,
+  "name" : "utpw",
+  "cargo" : "LIQUID",
+  "weight" : 56152,
+  "periodMin" : 14038
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 967,
+  "name" : "obuzdeer",
+  "cargo" : "LIQUID",
+  "weight" : 46327,
+  "periodMin" : 11581
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 1286,
+  "name" : "ejeegay",
+  "cargo" : "BULK",
+  "weight" : 56403,
+  "periodMin" : 14100
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 1299,
+  "name" : "eiquf",
+  "cargo" : "LIQUID",
+  "weight" : 52677,
+  "periodMin" : 13169
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 1337,
+  "name" : "swnjfhcgh",
+  "cargo" : "CONTAINER",
+  "weight" : 32381,
+  "periodMin" : 8095
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 1393,
+  "name" : "chggl",
+  "cargo" : "LIQUID",
+  "weight" : 49925,
+  "periodMin" : 12481
+}, {
+  "arrivalDay" : 6,
+  "arrivalTimeMin" : 1429,
+  "name" : "rgfdxw",
+  "cargo" : "BULK",
+  "weight" : 31979,
+  "periodMin" : 7994
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 74,
+  "name" : "dgnilzp",
+  "cargo" : "LIQUID",
+  "weight" : 33407,
+  "periodMin" : 8351
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 92,
+  "name" : "clxtzaz",
+  "cargo" : "LIQUID",
+  "weight" : 34935,
+  "periodMin" : 8733
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 124,
+  "name" : "hyjmo",
+  "cargo" : "BULK",
+  "weight" : 40639,
+  "periodMin" : 10159
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 237,
+  "name" : "asdfro",
+  "cargo" : "BULK",
+  "weight" : 56428,
+  "periodMin" : 14107
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 404,
+  "name" : "kfbqyb",
+  "cargo" : "BULK",
+  "weight" : 56458,
+  "periodMin" : 14114
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 423,
+  "name" : "vvunvxkkvb",
+  "cargo" : "LIQUID",
+  "weight" : 49839,
+  "periodMin" : 12459
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 428,
+  "name" : "qbite",
+  "cargo" : "CONTAINER",
+  "weight" : 55227,
+  "periodMin" : 13806
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 433,
+  "name" : "abs",
+  "cargo" : "LIQUID",
+  "weight" : 55111,
+  "periodMin" : 13777
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 554,
+  "name" : "kqk",
+  "cargo" : "BULK",
+  "weight" : 40925,
+  "periodMin" : 10231
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 569,
+  "name" : "mrlsnhbf",
+  "cargo" : "LIQUID",
+  "weight" : 46237,
+  "periodMin" : 11559
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 730,
+  "name" : "uqj",
+  "cargo" : "BULK",
+  "weight" : 45422,
+  "periodMin" : 11355
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 737,
+  "name" : "qdviqkib",
+  "cargo" : "BULK",
+  "weight" : 35304,
+  "periodMin" : 8826
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 745,
+  "name" : "wywea",
+  "cargo" : "CONTAINER",
+  "weight" : 56026,
+  "periodMin" : 14006
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 750,
+  "name" : "fpgvnd",
+  "cargo" : "LIQUID",
+  "weight" : 48991,
+  "periodMin" : 12247
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 875,
+  "name" : "uutekn",
+  "cargo" : "CONTAINER",
+  "weight" : 37547,
+  "periodMin" : 9386
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 905,
+  "name" : "rsqlhm",
+  "cargo" : "LIQUID",
+  "weight" : 46632,
+  "periodMin" : 11658
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 906,
+  "name" : "peab",
+  "cargo" : "CONTAINER",
+  "weight" : 32011,
+  "periodMin" : 8002
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 907,
+  "name" : "optken",
+  "cargo" : "BULK",
+  "weight" : 59342,
+  "periodMin" : 14835
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 923,
+  "name" : "ochgtvvq",
+  "cargo" : "LIQUID",
+  "weight" : 32958,
+  "periodMin" : 8239
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 932,
+  "name" : "ikatpje",
+  "cargo" : "BULK",
+  "weight" : 39921,
+  "periodMin" : 9980
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 939,
+  "name" : "rrughsqktq",
+  "cargo" : "LIQUID",
+  "weight" : 37044,
+  "periodMin" : 9261
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1072,
+  "name" : "lxgfg",
+  "cargo" : "LIQUID",
+  "weight" : 31502,
+  "periodMin" : 7875
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1073,
+  "name" : "tob",
+  "cargo" : "BULK",
+  "weight" : 38835,
+  "periodMin" : 9708
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1125,
+  "name" : "epyj",
+  "cargo" : "CONTAINER",
+  "weight" : 43889,
+  "periodMin" : 10972
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1254,
+  "name" : "rdvwzmo",
+  "cargo" : "LIQUID",
+  "weight" : 55207,
+  "periodMin" : 13801
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1350,
+  "name" : "tjzeuowfb",
+  "cargo" : "CONTAINER",
+  "weight" : 45188,
+  "periodMin" : 11297
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1364,
+  "name" : "tfctr",
+  "cargo" : "CONTAINER",
+  "weight" : 54683,
+  "periodMin" : 13670
+}, {
+  "arrivalDay" : 7,
+  "arrivalTimeMin" : 1420,
+  "name" : "rdwmiumrh",
+  "cargo" : "BULK",
+  "weight" : 33870,
+  "periodMin" : 8467
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 67,
+  "name" : "ukqan",
+  "cargo" : "LIQUID",
+  "weight" : 57077,
+  "periodMin" : 14269
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 73,
+  "name" : "jbafynoqsl",
+  "cargo" : "CONTAINER",
+  "weight" : 44705,
+  "periodMin" : 11176
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 74,
+  "name" : "ehiiw",
+  "cargo" : "LIQUID",
+  "weight" : 50710,
+  "periodMin" : 12677
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 243,
+  "name" : "wxfreptz",
+  "cargo" : "BULK",
+  "weight" : 42507,
+  "periodMin" : 10626
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 291,
+  "name" : "hpoyd",
+  "cargo" : "CONTAINER",
+  "weight" : 48683,
+  "periodMin" : 12170
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 334,
+  "name" : "vimpp",
+  "cargo" : "BULK",
+  "weight" : 57398,
+  "periodMin" : 14349
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 392,
+  "name" : "oxkrpm",
+  "cargo" : "LIQUID",
+  "weight" : 42969,
+  "periodMin" : 10742
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 398,
+  "name" : "fddxphd",
+  "cargo" : "LIQUID",
+  "weight" : 57816,
+  "periodMin" : 14454
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 464,
+  "name" : "nbd",
+  "cargo" : "CONTAINER",
+  "weight" : 40546,
+  "periodMin" : 10136
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 502,
+  "name" : "smfhfsz",
+  "cargo" : "LIQUID",
+  "weight" : 32114,
+  "periodMin" : 8028
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 536,
+  "name" : "qfbwlkokwl",
+  "cargo" : "CONTAINER",
+  "weight" : 49428,
+  "periodMin" : 12357
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 645,
+  "name" : "nqalpxilt",
+  "cargo" : "LIQUID",
+  "weight" : 41010,
+  "periodMin" : 10252
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 663,
+  "name" : "iugbdbqmy",
+  "cargo" : "LIQUID",
+  "weight" : 57793,
+  "periodMin" : 14448
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 693,
+  "name" : "uwkza",
+  "cargo" : "LIQUID",
+  "weight" : 56240,
+  "periodMin" : 14060
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 695,
+  "name" : "qeqgemq",
+  "cargo" : "BULK",
+  "weight" : 33546,
+  "periodMin" : 8386
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 696,
+  "name" : "bgcrf",
+  "cargo" : "CONTAINER",
+  "weight" : 51331,
+  "periodMin" : 12832
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 748,
+  "name" : "ddrk",
+  "cargo" : "CONTAINER",
+  "weight" : 57269,
+  "periodMin" : 14317
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 792,
+  "name" : "oqff",
+  "cargo" : "CONTAINER",
+  "weight" : 44698,
+  "periodMin" : 11174
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 831,
+  "name" : "xkdbezh",
+  "cargo" : "CONTAINER",
+  "weight" : 43633,
+  "periodMin" : 10908
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 937,
+  "name" : "xgdivb",
+  "cargo" : "CONTAINER",
+  "weight" : 48935,
+  "periodMin" : 12233
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 947,
+  "name" : "uaepkjto",
+  "cargo" : "CONTAINER",
+  "weight" : 30163,
+  "periodMin" : 7540
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 961,
+  "name" : "wgynbznejt",
+  "cargo" : "BULK",
+  "weight" : 46254,
+  "periodMin" : 11563
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1055,
+  "name" : "jxeczfumcj",
+  "cargo" : "BULK",
+  "weight" : 51939,
+  "periodMin" : 12984
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1088,
+  "name" : "lwg",
+  "cargo" : "LIQUID",
+  "weight" : 57494,
+  "periodMin" : 14373
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1287,
+  "name" : "flezeoes",
+  "cargo" : "BULK",
+  "weight" : 59720,
+  "periodMin" : 14930
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1342,
+  "name" : "dusbe",
+  "cargo" : "CONTAINER",
+  "weight" : 40736,
+  "periodMin" : 10184
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1369,
+  "name" : "enxjxke",
+  "cargo" : "LIQUID",
+  "weight" : 33289,
+  "periodMin" : 8322
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1373,
+  "name" : "bkyxr",
+  "cargo" : "BULK",
+  "weight" : 41522,
+  "periodMin" : 10380
+}, {
+  "arrivalDay" : 8,
+  "arrivalTimeMin" : 1399,
+  "name" : "mdjwqtkl",
+  "cargo" : "CONTAINER",
+  "weight" : 49154,
+  "periodMin" : 12288
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 101,
+  "name" : "gthukfdwl",
+  "cargo" : "LIQUID",
+  "weight" : 57556,
+  "periodMin" : 14389
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 108,
+  "name" : "prqwgai",
+  "cargo" : "CONTAINER",
+  "weight" : 39775,
+  "periodMin" : 9943
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 129,
+  "name" : "yanksig",
+  "cargo" : "LIQUID",
+  "weight" : 46690,
+  "periodMin" : 11672
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 224,
+  "name" : "edke",
+  "cargo" : "BULK",
+  "weight" : 51481,
+  "periodMin" : 12870
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 246,
+  "name" : "mqvmfpv",
+  "cargo" : "BULK",
+  "weight" : 32599,
+  "periodMin" : 8149
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 281,
+  "name" : "ohqlyopum",
+  "cargo" : "CONTAINER",
+  "weight" : 46102,
+  "periodMin" : 11525
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 291,
+  "name" : "loadtqe",
+  "cargo" : "BULK",
+  "weight" : 52543,
+  "periodMin" : 13135
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 309,
+  "name" : "wgxf",
+  "cargo" : "BULK",
+  "weight" : 43900,
+  "periodMin" : 10975
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 320,
+  "name" : "rafi",
+  "cargo" : "BULK",
+  "weight" : 36312,
+  "periodMin" : 9078
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 328,
+  "name" : "hnhkxzwpgq",
+  "cargo" : "CONTAINER",
+  "weight" : 46758,
+  "periodMin" : 11689
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 424,
+  "name" : "zpggb",
+  "cargo" : "LIQUID",
+  "weight" : 39192,
+  "periodMin" : 9798
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 443,
+  "name" : "xkbvapbbfj",
+  "cargo" : "BULK",
+  "weight" : 40671,
+  "periodMin" : 10167
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 520,
+  "name" : "vbfapatvu",
+  "cargo" : "LIQUID",
+  "weight" : 52106,
+  "periodMin" : 13026
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 521,
+  "name" : "hnaok",
+  "cargo" : "LIQUID",
+  "weight" : 38383,
+  "periodMin" : 9595
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 525,
+  "name" : "roxdqbawfj",
+  "cargo" : "CONTAINER",
+  "weight" : 39210,
+  "periodMin" : 9802
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 560,
+  "name" : "qenjivb",
+  "cargo" : "BULK",
+  "weight" : 54679,
+  "periodMin" : 13669
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 575,
+  "name" : "ahzysxj",
+  "cargo" : "LIQUID",
+  "weight" : 33743,
+  "periodMin" : 8435
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 735,
+  "name" : "myhptr",
+  "cargo" : "CONTAINER",
+  "weight" : 35364,
+  "periodMin" : 8841
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 821,
+  "name" : "jaut",
+  "cargo" : "LIQUID",
+  "weight" : 52389,
+  "periodMin" : 13097
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 828,
+  "name" : "grvm",
+  "cargo" : "LIQUID",
+  "weight" : 46533,
+  "periodMin" : 11633
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 848,
+  "name" : "cnmcdyjbly",
+  "cargo" : "CONTAINER",
+  "weight" : 38084,
+  "periodMin" : 9521
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 855,
+  "name" : "cubm",
+  "cargo" : "BULK",
+  "weight" : 55591,
+  "periodMin" : 13897
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 914,
+  "name" : "uwvmgngvx",
+  "cargo" : "LIQUID",
+  "weight" : 53180,
+  "periodMin" : 13295
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 973,
+  "name" : "wue",
+  "cargo" : "LIQUID",
+  "weight" : 31236,
+  "periodMin" : 7809
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1024,
+  "name" : "txou",
+  "cargo" : "BULK",
+  "weight" : 50778,
+  "periodMin" : 12694
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1038,
+  "name" : "dbopqdxr",
+  "cargo" : "BULK",
+  "weight" : 58616,
+  "periodMin" : 14654
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1068,
+  "name" : "hhrx",
+  "cargo" : "BULK",
+  "weight" : 58045,
+  "periodMin" : 14511
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1088,
+  "name" : "iajn",
+  "cargo" : "BULK",
+  "weight" : 56712,
+  "periodMin" : 14178
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1231,
+  "name" : "cibxhmu",
+  "cargo" : "BULK",
+  "weight" : 50572,
+  "periodMin" : 12643
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1285,
+  "name" : "hkzhsv",
+  "cargo" : "CONTAINER",
+  "weight" : 43976,
+  "periodMin" : 10994
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1304,
+  "name" : "dfxy",
+  "cargo" : "BULK",
+  "weight" : 35843,
+  "periodMin" : 8960
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1376,
+  "name" : "mxd",
+  "cargo" : "LIQUID",
+  "weight" : 33911,
+  "periodMin" : 8477
+}, {
+  "arrivalDay" : 9,
+  "arrivalTimeMin" : 1378,
+  "name" : "impif",
+  "cargo" : "LIQUID",
+  "weight" : 47357,
+  "periodMin" : 11839
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 45,
+  "name" : "wtr",
+  "cargo" : "LIQUID",
+  "weight" : 47848,
+  "periodMin" : 11962
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 182,
+  "name" : "hewhlw",
+  "cargo" : "CONTAINER",
+  "weight" : 39329,
+  "periodMin" : 9832
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 207,
+  "name" : "ywkjekv",
+  "cargo" : "CONTAINER",
+  "weight" : 50252,
+  "periodMin" : 12563
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 209,
+  "name" : "swcptzte",
+  "cargo" : "BULK",
+  "weight" : 42272,
+  "periodMin" : 10568
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 240,
+  "name" : "llee",
+  "cargo" : "CONTAINER",
+  "weight" : 56572,
+  "periodMin" : 14143
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 251,
+  "name" : "ahwlgvv",
+  "cargo" : "CONTAINER",
+  "weight" : 52647,
+  "periodMin" : 13161
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 339,
+  "name" : "djvxyif",
+  "cargo" : "BULK",
+  "weight" : 38985,
+  "periodMin" : 9746
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 409,
+  "name" : "fskasajtu",
+  "cargo" : "LIQUID",
+  "weight" : 56570,
+  "periodMin" : 14142
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 498,
+  "name" : "lhvudqwlwa",
+  "cargo" : "LIQUID",
+  "weight" : 31342,
+  "periodMin" : 7835
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 520,
+  "name" : "pwoxznxe",
+  "cargo" : "LIQUID",
+  "weight" : 49568,
+  "periodMin" : 12392
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 647,
+  "name" : "tcq",
+  "cargo" : "LIQUID",
+  "weight" : 36849,
+  "periodMin" : 9212
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 693,
+  "name" : "vvpqe",
+  "cargo" : "CONTAINER",
+  "weight" : 32937,
+  "periodMin" : 8234
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 709,
+  "name" : "kqcubkwv",
+  "cargo" : "BULK",
+  "weight" : 36972,
+  "periodMin" : 9243
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 711,
+  "name" : "wlqxlnnzt",
+  "cargo" : "BULK",
+  "weight" : 33482,
+  "periodMin" : 8370
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 715,
+  "name" : "qjntral",
+  "cargo" : "LIQUID",
+  "weight" : 45215,
+  "periodMin" : 11303
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 737,
+  "name" : "ikytsbfm",
+  "cargo" : "LIQUID",
+  "weight" : 51693,
+  "periodMin" : 12923
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 793,
+  "name" : "wedzosusfl",
+  "cargo" : "BULK",
+  "weight" : 58743,
+  "periodMin" : 14685
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 805,
+  "name" : "mityrr",
+  "cargo" : "BULK",
+  "weight" : 39337,
+  "periodMin" : 9834
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 809,
+  "name" : "hfye",
+  "cargo" : "CONTAINER",
+  "weight" : 50613,
+  "periodMin" : 12653
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 848,
+  "name" : "cjszxvkjgh",
+  "cargo" : "LIQUID",
+  "weight" : 39960,
+  "periodMin" : 9990
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 864,
+  "name" : "gwexfw",
+  "cargo" : "CONTAINER",
+  "weight" : 38517,
+  "periodMin" : 9629
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 925,
+  "name" : "nitfc",
+  "cargo" : "BULK",
+  "weight" : 36423,
+  "periodMin" : 9105
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 951,
+  "name" : "bpf",
+  "cargo" : "BULK",
+  "weight" : 58144,
+  "periodMin" : 14536
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1028,
+  "name" : "dkizd",
+  "cargo" : "CONTAINER",
+  "weight" : 34064,
+  "periodMin" : 8516
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1049,
+  "name" : "npugxsjkub",
+  "cargo" : "LIQUID",
+  "weight" : 43819,
+  "periodMin" : 10954
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1068,
+  "name" : "zzuoyhpvyf",
+  "cargo" : "CONTAINER",
+  "weight" : 49152,
+  "periodMin" : 12288
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1309,
+  "name" : "dfmfcyv",
+  "cargo" : "LIQUID",
+  "weight" : 40479,
+  "periodMin" : 10119
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1350,
+  "name" : "tddvsfqk",
+  "cargo" : "BULK",
+  "weight" : 32492,
+  "periodMin" : 8123
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1353,
+  "name" : "snlhl",
+  "cargo" : "CONTAINER",
+  "weight" : 36120,
+  "periodMin" : 9030
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1393,
+  "name" : "qkxdss",
+  "cargo" : "LIQUID",
+  "weight" : 37973,
+  "periodMin" : 9493
+}, {
+  "arrivalDay" : 10,
+  "arrivalTimeMin" : 1404,
+  "name" : "vetisxbm",
+  "cargo" : "CONTAINER",
+  "weight" : 44497,
+  "periodMin" : 11124
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 17,
+  "name" : "panmuiu",
+  "cargo" : "CONTAINER",
+  "weight" : 57384,
+  "periodMin" : 14346
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 17,
+  "name" : "wvapomlrcb",
+  "cargo" : "CONTAINER",
+  "weight" : 31023,
+  "periodMin" : 7755
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 24,
+  "name" : "vfs",
+  "cargo" : "BULK",
+  "weight" : 53342,
+  "periodMin" : 13335
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 48,
+  "name" : "ocukzavy",
+  "cargo" : "BULK",
+  "weight" : 41463,
+  "periodMin" : 10365
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 66,
+  "name" : "qjrjpbr",
+  "cargo" : "LIQUID",
+  "weight" : 33733,
+  "periodMin" : 8433
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 81,
+  "name" : "ipgkzlsi",
+  "cargo" : "BULK",
+  "weight" : 31804,
+  "periodMin" : 7951
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 83,
+  "name" : "wzmi",
+  "cargo" : "LIQUID",
+  "weight" : 59759,
+  "periodMin" : 14939
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 86,
+  "name" : "lvmwzub",
+  "cargo" : "LIQUID",
+  "weight" : 45995,
+  "periodMin" : 11498
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 115,
+  "name" : "uqwj",
+  "cargo" : "LIQUID",
+  "weight" : 38939,
+  "periodMin" : 9734
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 136,
+  "name" : "ikjl",
+  "cargo" : "BULK",
+  "weight" : 34016,
+  "periodMin" : 8504
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 195,
+  "name" : "dnczhy",
+  "cargo" : "LIQUID",
+  "weight" : 52649,
+  "periodMin" : 13162
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 272,
+  "name" : "atl",
+  "cargo" : "BULK",
+  "weight" : 59251,
+  "periodMin" : 14812
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 307,
+  "name" : "snwu",
+  "cargo" : "BULK",
+  "weight" : 38680,
+  "periodMin" : 9670
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 442,
+  "name" : "ptg",
+  "cargo" : "BULK",
+  "weight" : 59935,
+  "periodMin" : 14983
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 594,
+  "name" : "qjmirmmr",
+  "cargo" : "CONTAINER",
+  "weight" : 41883,
+  "periodMin" : 10470
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 621,
+  "name" : "gzrappog",
+  "cargo" : "BULK",
+  "weight" : 47575,
+  "periodMin" : 11893
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 661,
+  "name" : "anvonk",
+  "cargo" : "LIQUID",
+  "weight" : 58019,
+  "periodMin" : 14504
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 818,
+  "name" : "kzb",
+  "cargo" : "LIQUID",
+  "weight" : 59473,
+  "periodMin" : 14868
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 830,
+  "name" : "lfpquvw",
+  "cargo" : "CONTAINER",
+  "weight" : 41860,
+  "periodMin" : 10465
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 884,
+  "name" : "xbmjxyc",
+  "cargo" : "LIQUID",
+  "weight" : 31803,
+  "periodMin" : 7950
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 940,
+  "name" : "dpvqpsu",
+  "cargo" : "CONTAINER",
+  "weight" : 38031,
+  "periodMin" : 9507
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 965,
+  "name" : "gdaypihl",
+  "cargo" : "BULK",
+  "weight" : 30833,
+  "periodMin" : 7708
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1036,
+  "name" : "jiet",
+  "cargo" : "LIQUID",
+  "weight" : 56626,
+  "periodMin" : 14156
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1128,
+  "name" : "tkbkeetb",
+  "cargo" : "LIQUID",
+  "weight" : 31676,
+  "periodMin" : 7919
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1171,
+  "name" : "qhsbdwgit",
+  "cargo" : "CONTAINER",
+  "weight" : 51220,
+  "periodMin" : 12805
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1191,
+  "name" : "poewxpied",
+  "cargo" : "BULK",
+  "weight" : 30059,
+  "periodMin" : 7514
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1196,
+  "name" : "qoif",
+  "cargo" : "BULK",
+  "weight" : 53741,
+  "periodMin" : 13435
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1201,
+  "name" : "utwywbg",
+  "cargo" : "BULK",
+  "weight" : 38227,
+  "periodMin" : 9556
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1240,
+  "name" : "wrahjcknv",
+  "cargo" : "CONTAINER",
+  "weight" : 33243,
+  "periodMin" : 8310
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1353,
+  "name" : "lkeoyyu",
+  "cargo" : "CONTAINER",
+  "weight" : 51663,
+  "periodMin" : 12915
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1402,
+  "name" : "kij",
+  "cargo" : "CONTAINER",
+  "weight" : 44891,
+  "periodMin" : 11222
+}, {
+  "arrivalDay" : 11,
+  "arrivalTimeMin" : 1420,
+  "name" : "mmxkqel",
+  "cargo" : "LIQUID",
+  "weight" : 30811,
+  "periodMin" : 7702
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 60,
+  "name" : "ctxuwjlwok",
+  "cargo" : "LIQUID",
+  "weight" : 31214,
+  "periodMin" : 7803
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 67,
+  "name" : "qneyvphu",
+  "cargo" : "CONTAINER",
+  "weight" : 36578,
+  "periodMin" : 9144
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 119,
+  "name" : "hpctfab",
+  "cargo" : "LIQUID",
+  "weight" : 55856,
+  "periodMin" : 13964
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 156,
+  "name" : "dsonhr",
+  "cargo" : "BULK",
+  "weight" : 44812,
+  "periodMin" : 11203
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 159,
+  "name" : "glgrftrn",
+  "cargo" : "BULK",
+  "weight" : 47110,
+  "periodMin" : 11777
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 179,
+  "name" : "zcftf",
+  "cargo" : "BULK",
+  "weight" : 55819,
+  "periodMin" : 13954
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 218,
+  "name" : "ivdfv",
+  "cargo" : "CONTAINER",
+  "weight" : 41533,
+  "periodMin" : 10383
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 239,
+  "name" : "qzwi",
+  "cargo" : "CONTAINER",
+  "weight" : 58333,
+  "periodMin" : 14583
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 269,
+  "name" : "oymy",
+  "cargo" : "LIQUID",
+  "weight" : 31745,
+  "periodMin" : 7936
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 275,
+  "name" : "elcfbhign",
+  "cargo" : "BULK",
+  "weight" : 56822,
+  "periodMin" : 14205
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 391,
+  "name" : "gzctnu",
+  "cargo" : "LIQUID",
+  "weight" : 51636,
+  "periodMin" : 12909
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 399,
+  "name" : "xhkcesipt",
+  "cargo" : "CONTAINER",
+  "weight" : 47664,
+  "periodMin" : 11916
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 452,
+  "name" : "sbifetyway",
+  "cargo" : "CONTAINER",
+  "weight" : 52687,
+  "periodMin" : 13171
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 599,
+  "name" : "hngxudee",
+  "cargo" : "LIQUID",
+  "weight" : 41222,
+  "periodMin" : 10305
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 610,
+  "name" : "dbc",
+  "cargo" : "BULK",
+  "weight" : 32356,
+  "periodMin" : 8089
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 643,
+  "name" : "ncyzrcr",
+  "cargo" : "CONTAINER",
+  "weight" : 45754,
+  "periodMin" : 11438
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 659,
+  "name" : "qjkkhvj",
+  "cargo" : "BULK",
+  "weight" : 54167,
+  "periodMin" : 13541
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 677,
+  "name" : "oik",
+  "cargo" : "LIQUID",
+  "weight" : 41633,
+  "periodMin" : 10408
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 680,
+  "name" : "xfosvrs",
+  "cargo" : "LIQUID",
+  "weight" : 51166,
+  "periodMin" : 12791
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 767,
+  "name" : "gcmlxei",
+  "cargo" : "CONTAINER",
+  "weight" : 58701,
+  "periodMin" : 14675
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 778,
+  "name" : "qxzywrxl",
+  "cargo" : "BULK",
+  "weight" : 52884,
+  "periodMin" : 13221
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 804,
+  "name" : "vbc",
+  "cargo" : "LIQUID",
+  "weight" : 49028,
+  "periodMin" : 12257
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 855,
+  "name" : "kmmqrec",
+  "cargo" : "CONTAINER",
+  "weight" : 41485,
+  "periodMin" : 10371
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 902,
+  "name" : "rhknccodnx",
+  "cargo" : "BULK",
+  "weight" : 53008,
+  "periodMin" : 13252
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 902,
+  "name" : "opxcgaeuel",
+  "cargo" : "CONTAINER",
+  "weight" : 46490,
+  "periodMin" : 11622
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 925,
+  "name" : "qwhefeilmz",
+  "cargo" : "CONTAINER",
+  "weight" : 42126,
+  "periodMin" : 10531
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 958,
+  "name" : "cfo",
+  "cargo" : "LIQUID",
+  "weight" : 55057,
+  "periodMin" : 13764
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 982,
+  "name" : "oheiwxo",
+  "cargo" : "LIQUID",
+  "weight" : 53934,
+  "periodMin" : 13483
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1019,
+  "name" : "qmaan",
+  "cargo" : "BULK",
+  "weight" : 34401,
+  "periodMin" : 8600
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1040,
+  "name" : "yzkydlyuqq",
+  "cargo" : "BULK",
+  "weight" : 42665,
+  "periodMin" : 10666
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1045,
+  "name" : "glmirlxgn",
+  "cargo" : "BULK",
+  "weight" : 38890,
+  "periodMin" : 9722
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1184,
+  "name" : "esx",
+  "cargo" : "CONTAINER",
+  "weight" : 33930,
+  "periodMin" : 8482
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1259,
+  "name" : "hvyybi",
+  "cargo" : "LIQUID",
+  "weight" : 41170,
+  "periodMin" : 10292
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1298,
+  "name" : "gfzcsdrbi",
+  "cargo" : "BULK",
+  "weight" : 37827,
+  "periodMin" : 9456
+}, {
+  "arrivalDay" : 12,
+  "arrivalTimeMin" : 1317,
+  "name" : "swkqaesv",
+  "cargo" : "BULK",
+  "weight" : 39389,
+  "periodMin" : 9847
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 26,
+  "name" : "ghycek",
+  "cargo" : "BULK",
+  "weight" : 39216,
+  "periodMin" : 9804
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 88,
+  "name" : "qvilto",
+  "cargo" : "LIQUID",
+  "weight" : 43165,
+  "periodMin" : 10791
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 186,
+  "name" : "ynltunym",
+  "cargo" : "BULK",
+  "weight" : 51037,
+  "periodMin" : 12759
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 235,
+  "name" : "rrd",
+  "cargo" : "LIQUID",
+  "weight" : 30495,
+  "periodMin" : 7623
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 277,
+  "name" : "pknfadxk",
+  "cargo" : "CONTAINER",
+  "weight" : 48929,
+  "periodMin" : 12232
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 421,
+  "name" : "flfmx",
+  "cargo" : "BULK",
+  "weight" : 42458,
+  "periodMin" : 10614
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 548,
+  "name" : "cvtwezdl",
+  "cargo" : "BULK",
+  "weight" : 48212,
+  "periodMin" : 12053
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 558,
+  "name" : "zzyec",
+  "cargo" : "BULK",
+  "weight" : 57028,
+  "periodMin" : 14257
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 573,
+  "name" : "gisbnfws",
+  "cargo" : "BULK",
+  "weight" : 50311,
+  "periodMin" : 12577
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 574,
+  "name" : "kopnwsldt",
+  "cargo" : "BULK",
+  "weight" : 59963,
+  "periodMin" : 14990
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 597,
+  "name" : "qkehthio",
+  "cargo" : "CONTAINER",
+  "weight" : 33455,
+  "periodMin" : 8363
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 603,
+  "name" : "hmd",
+  "cargo" : "LIQUID",
+  "weight" : 59532,
+  "periodMin" : 14883
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 785,
+  "name" : "habzei",
+  "cargo" : "BULK",
+  "weight" : 53968,
+  "periodMin" : 13492
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 792,
+  "name" : "rbfzvamn",
+  "cargo" : "LIQUID",
+  "weight" : 48955,
+  "periodMin" : 12238
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 989,
+  "name" : "ojh",
+  "cargo" : "LIQUID",
+  "weight" : 47457,
+  "periodMin" : 11864
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1006,
+  "name" : "jikyasn",
+  "cargo" : "CONTAINER",
+  "weight" : 31526,
+  "periodMin" : 7881
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1061,
+  "name" : "qoblpkh",
+  "cargo" : "LIQUID",
+  "weight" : 32132,
+  "periodMin" : 8033
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1230,
+  "name" : "sme",
+  "cargo" : "CONTAINER",
+  "weight" : 43433,
+  "periodMin" : 10858
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1232,
+  "name" : "vbvjo",
+  "cargo" : "CONTAINER",
+  "weight" : 30915,
+  "periodMin" : 7728
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1239,
+  "name" : "ekqex",
+  "cargo" : "LIQUID",
+  "weight" : 31868,
+  "periodMin" : 7967
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1246,
+  "name" : "kojhtuuju",
+  "cargo" : "CONTAINER",
+  "weight" : 30082,
+  "periodMin" : 7520
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1289,
+  "name" : "xksxqlwwhr",
+  "cargo" : "LIQUID",
+  "weight" : 59464,
+  "periodMin" : 14866
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1294,
+  "name" : "yxjys",
+  "cargo" : "LIQUID",
+  "weight" : 38112,
+  "periodMin" : 9528
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1327,
+  "name" : "svdslzkq",
+  "cargo" : "LIQUID",
+  "weight" : 39382,
+  "periodMin" : 9845
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1395,
+  "name" : "ebtuss",
+  "cargo" : "LIQUID",
+  "weight" : 32951,
+  "periodMin" : 8237
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1395,
+  "name" : "zrqe",
+  "cargo" : "CONTAINER",
+  "weight" : 43122,
+  "periodMin" : 10780
+}, {
+  "arrivalDay" : 13,
+  "arrivalTimeMin" : 1422,
+  "name" : "nktgurfcu",
+  "cargo" : "CONTAINER",
+  "weight" : 44781,
+  "periodMin" : 11195
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 16,
+  "name" : "oxwbkiwcz",
+  "cargo" : "CONTAINER",
+  "weight" : 35093,
+  "periodMin" : 8773
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 59,
+  "name" : "mbtmelfdod",
+  "cargo" : "CONTAINER",
+  "weight" : 55872,
+  "periodMin" : 13968
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 92,
+  "name" : "tphxep",
+  "cargo" : "CONTAINER",
+  "weight" : 44592,
+  "periodMin" : 11148
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 153,
+  "name" : "tljibv",
+  "cargo" : "CONTAINER",
+  "weight" : 49879,
+  "periodMin" : 12469
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 171,
+  "name" : "zvfisvqez",
+  "cargo" : "LIQUID",
+  "weight" : 37368,
+  "periodMin" : 9342
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 223,
+  "name" : "ghqpjrwl",
+  "cargo" : "BULK",
+  "weight" : 43593,
+  "periodMin" : 10898
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 233,
+  "name" : "goxup",
+  "cargo" : "CONTAINER",
+  "weight" : 39835,
+  "periodMin" : 9958
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 282,
+  "name" : "oawkco",
+  "cargo" : "CONTAINER",
+  "weight" : 57306,
+  "periodMin" : 14326
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 427,
+  "name" : "gierubvtyu",
+  "cargo" : "BULK",
+  "weight" : 37865,
+  "periodMin" : 9466
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 448,
+  "name" : "sabp",
+  "cargo" : "LIQUID",
+  "weight" : 31297,
+  "periodMin" : 7824
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 454,
+  "name" : "hqqeiplqtd",
+  "cargo" : "LIQUID",
+  "weight" : 31107,
+  "periodMin" : 7776
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 484,
+  "name" : "kkuurnvot",
+  "cargo" : "LIQUID",
+  "weight" : 31300,
+  "periodMin" : 7825
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 686,
+  "name" : "xfrzstr",
+  "cargo" : "LIQUID",
+  "weight" : 45082,
+  "periodMin" : 11270
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 701,
+  "name" : "yri",
+  "cargo" : "BULK",
+  "weight" : 42464,
+  "periodMin" : 10616
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 818,
+  "name" : "hsnbynfwpb",
+  "cargo" : "BULK",
+  "weight" : 39564,
+  "periodMin" : 9891
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 901,
+  "name" : "gjflllmlia",
+  "cargo" : "BULK",
+  "weight" : 53114,
+  "periodMin" : 13278
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 904,
+  "name" : "aqgnbop",
+  "cargo" : "CONTAINER",
+  "weight" : 58281,
+  "periodMin" : 14570
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 962,
+  "name" : "qyovfg",
+  "cargo" : "LIQUID",
+  "weight" : 31426,
+  "periodMin" : 7856
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1025,
+  "name" : "tnx",
+  "cargo" : "LIQUID",
+  "weight" : 38494,
+  "periodMin" : 9623
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1033,
+  "name" : "rvoughjd",
+  "cargo" : "LIQUID",
+  "weight" : 41029,
+  "periodMin" : 10257
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1184,
+  "name" : "siho",
+  "cargo" : "LIQUID",
+  "weight" : 55807,
+  "periodMin" : 13951
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1189,
+  "name" : "xyqzotj",
+  "cargo" : "LIQUID",
+  "weight" : 53891,
+  "periodMin" : 13472
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1193,
+  "name" : "dzlgfdwyp",
+  "cargo" : "LIQUID",
+  "weight" : 46545,
+  "periodMin" : 11636
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1198,
+  "name" : "zmyla",
+  "cargo" : "LIQUID",
+  "weight" : 39639,
+  "periodMin" : 9909
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1227,
+  "name" : "paxfisb",
+  "cargo" : "LIQUID",
+  "weight" : 59698,
+  "periodMin" : 14924
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1264,
+  "name" : "dngitihj",
+  "cargo" : "CONTAINER",
+  "weight" : 58226,
+  "periodMin" : 14556
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1276,
+  "name" : "fdklwas",
+  "cargo" : "LIQUID",
+  "weight" : 56889,
+  "periodMin" : 14222
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1297,
+  "name" : "amunjx",
+  "cargo" : "CONTAINER",
+  "weight" : 55136,
+  "periodMin" : 13784
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1297,
+  "name" : "htk",
+  "cargo" : "CONTAINER",
+  "weight" : 41081,
+  "periodMin" : 10270
+}, {
+  "arrivalDay" : 14,
+  "arrivalTimeMin" : 1373,
+  "name" : "wwehqfpxqb",
+  "cargo" : "LIQUID",
+  "weight" : 49425,
+  "periodMin" : 12356
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 102,
+  "name" : "wmaunoyaq",
+  "cargo" : "BULK",
+  "weight" : 43843,
+  "periodMin" : 10960
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 142,
+  "name" : "ttqyfhvpc",
+  "cargo" : "LIQUID",
+  "weight" : 52560,
+  "periodMin" : 13140
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 145,
+  "name" : "zecbtn",
+  "cargo" : "CONTAINER",
+  "weight" : 34173,
+  "periodMin" : 8543
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 184,
+  "name" : "wrevak",
+  "cargo" : "CONTAINER",
+  "weight" : 33618,
+  "periodMin" : 8404
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 198,
+  "name" : "rmmvgk",
+  "cargo" : "CONTAINER",
+  "weight" : 34717,
+  "periodMin" : 8679
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 233,
+  "name" : "vrojmwvphw",
+  "cargo" : "LIQUID",
+  "weight" : 31282,
+  "periodMin" : 7820
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 234,
+  "name" : "deouo",
+  "cargo" : "LIQUID",
+  "weight" : 40677,
+  "periodMin" : 10169
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 484,
+  "name" : "wlvr",
+  "cargo" : "CONTAINER",
+  "weight" : 37186,
+  "periodMin" : 9296
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 565,
+  "name" : "sqml",
+  "cargo" : "CONTAINER",
+  "weight" : 34575,
+  "periodMin" : 8643
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 655,
+  "name" : "bobevwpydd",
+  "cargo" : "BULK",
+  "weight" : 42311,
+  "periodMin" : 10577
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 719,
+  "name" : "zvml",
+  "cargo" : "BULK",
+  "weight" : 32264,
+  "periodMin" : 8066
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 769,
+  "name" : "gamgrecbgb",
+  "cargo" : "LIQUID",
+  "weight" : 44409,
+  "periodMin" : 11102
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 795,
+  "name" : "qhwmki",
+  "cargo" : "LIQUID",
+  "weight" : 37761,
+  "periodMin" : 9440
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 802,
+  "name" : "aqp",
+  "cargo" : "CONTAINER",
+  "weight" : 53504,
+  "periodMin" : 13376
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 907,
+  "name" : "icjbeq",
+  "cargo" : "CONTAINER",
+  "weight" : 41369,
+  "periodMin" : 10342
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 936,
+  "name" : "jgbcdxv",
+  "cargo" : "CONTAINER",
+  "weight" : 36801,
+  "periodMin" : 9200
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1024,
+  "name" : "ufcuune",
+  "cargo" : "BULK",
+  "weight" : 42005,
+  "periodMin" : 10501
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1097,
+  "name" : "spumbpnqy",
+  "cargo" : "LIQUID",
+  "weight" : 54886,
+  "periodMin" : 13721
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1135,
+  "name" : "ywwkcqbuq",
+  "cargo" : "LIQUID",
+  "weight" : 39853,
+  "periodMin" : 9963
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1147,
+  "name" : "thlooyu",
+  "cargo" : "BULK",
+  "weight" : 46321,
+  "periodMin" : 11580
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1214,
+  "name" : "lqfl",
+  "cargo" : "LIQUID",
+  "weight" : 43026,
+  "periodMin" : 10756
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1222,
+  "name" : "vzm",
+  "cargo" : "BULK",
+  "weight" : 45867,
+  "periodMin" : 11466
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1304,
+  "name" : "zptdxzub",
+  "cargo" : "LIQUID",
+  "weight" : 54272,
+  "periodMin" : 13568
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1416,
+  "name" : "mspj",
+  "cargo" : "CONTAINER",
+  "weight" : 52726,
+  "periodMin" : 13181
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1418,
+  "name" : "jsfto",
+  "cargo" : "BULK",
+  "weight" : 50064,
+  "periodMin" : 12516
+}, {
+  "arrivalDay" : 15,
+  "arrivalTimeMin" : 1436,
+  "name" : "smshe",
+  "cargo" : "BULK",
+  "weight" : 38497,
+  "periodMin" : 9624
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 53,
+  "name" : "wrkkpmqsj",
+  "cargo" : "LIQUID",
+  "weight" : 30164,
+  "periodMin" : 7541
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 89,
+  "name" : "zyss",
+  "cargo" : "CONTAINER",
+  "weight" : 55392,
+  "periodMin" : 13848
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 112,
+  "name" : "leaw",
+  "cargo" : "CONTAINER",
+  "weight" : 39360,
+  "periodMin" : 9840
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 118,
+  "name" : "vyw",
+  "cargo" : "BULK",
+  "weight" : 50798,
+  "periodMin" : 12699
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 151,
+  "name" : "arff",
+  "cargo" : "LIQUID",
+  "weight" : 45372,
+  "periodMin" : 11343
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 275,
+  "name" : "fio",
+  "cargo" : "CONTAINER",
+  "weight" : 59370,
+  "periodMin" : 14842
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 281,
+  "name" : "czmeai",
+  "cargo" : "LIQUID",
+  "weight" : 42924,
+  "periodMin" : 10731
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 283,
+  "name" : "cigjf",
+  "cargo" : "LIQUID",
+  "weight" : 52855,
+  "periodMin" : 13213
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 306,
+  "name" : "blwepphby",
+  "cargo" : "LIQUID",
+  "weight" : 30278,
+  "periodMin" : 7569
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 344,
+  "name" : "wuvc",
+  "cargo" : "LIQUID",
+  "weight" : 43343,
+  "periodMin" : 10835
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 528,
+  "name" : "vegzab",
+  "cargo" : "LIQUID",
+  "weight" : 36376,
+  "periodMin" : 9094
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 559,
+  "name" : "jtpdirdnbw",
+  "cargo" : "CONTAINER",
+  "weight" : 55219,
+  "periodMin" : 13804
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 567,
+  "name" : "rngkg",
+  "cargo" : "CONTAINER",
+  "weight" : 43741,
+  "periodMin" : 10935
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 660,
+  "name" : "dvaf",
+  "cargo" : "LIQUID",
+  "weight" : 31099,
+  "periodMin" : 7774
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 715,
+  "name" : "xmom",
+  "cargo" : "BULK",
+  "weight" : 53432,
+  "periodMin" : 13358
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 810,
+  "name" : "ptkiz",
+  "cargo" : "BULK",
+  "weight" : 36121,
+  "periodMin" : 9030
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 830,
+  "name" : "xzj",
+  "cargo" : "BULK",
+  "weight" : 36142,
+  "periodMin" : 9035
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 907,
+  "name" : "cgpang",
+  "cargo" : "LIQUID",
+  "weight" : 55352,
+  "periodMin" : 13838
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 932,
+  "name" : "goyaoiixyy",
+  "cargo" : "LIQUID",
+  "weight" : 38191,
+  "periodMin" : 9547
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 954,
+  "name" : "kmjl",
+  "cargo" : "CONTAINER",
+  "weight" : 58116,
+  "periodMin" : 14529
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1080,
+  "name" : "ctkons",
+  "cargo" : "CONTAINER",
+  "weight" : 56532,
+  "periodMin" : 14133
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1109,
+  "name" : "suzyvsr",
+  "cargo" : "BULK",
+  "weight" : 45604,
+  "periodMin" : 11401
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1121,
+  "name" : "jkcjsi",
+  "cargo" : "LIQUID",
+  "weight" : 42932,
+  "periodMin" : 10733
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1185,
+  "name" : "hpxrtrxhd",
+  "cargo" : "BULK",
+  "weight" : 46877,
+  "periodMin" : 11719
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1287,
+  "name" : "fpjcpzoy",
+  "cargo" : "BULK",
+  "weight" : 59527,
+  "periodMin" : 14881
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1431,
+  "name" : "qdbzh",
+  "cargo" : "LIQUID",
+  "weight" : 35328,
+  "periodMin" : 8832
+}, {
+  "arrivalDay" : 16,
+  "arrivalTimeMin" : 1435,
+  "name" : "tqruri",
+  "cargo" : "LIQUID",
+  "weight" : 46747,
+  "periodMin" : 11686
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 61,
+  "name" : "zkhnar",
+  "cargo" : "CONTAINER",
+  "weight" : 35923,
+  "periodMin" : 8980
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 77,
+  "name" : "qypjwbugyx",
+  "cargo" : "CONTAINER",
+  "weight" : 44262,
+  "periodMin" : 11065
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 166,
+  "name" : "yetifr",
+  "cargo" : "CONTAINER",
+  "weight" : 55627,
+  "periodMin" : 13906
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 173,
+  "name" : "badmyyfuh",
+  "cargo" : "BULK",
+  "weight" : 40865,
+  "periodMin" : 10216
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 217,
+  "name" : "dayngzjobh",
+  "cargo" : "BULK",
+  "weight" : 41802,
+  "periodMin" : 10450
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 285,
+  "name" : "wavkjvh",
+  "cargo" : "BULK",
+  "weight" : 58043,
+  "periodMin" : 14510
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 321,
+  "name" : "futa",
+  "cargo" : "BULK",
+  "weight" : 42977,
+  "periodMin" : 10744
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 321,
+  "name" : "jfhq",
+  "cargo" : "BULK",
+  "weight" : 59558,
+  "periodMin" : 14889
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 493,
+  "name" : "awjrrpby",
+  "cargo" : "CONTAINER",
+  "weight" : 31420,
+  "periodMin" : 7855
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 499,
+  "name" : "bbnk",
+  "cargo" : "CONTAINER",
+  "weight" : 52804,
+  "periodMin" : 13201
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 550,
+  "name" : "vwcxueh",
+  "cargo" : "BULK",
+  "weight" : 44570,
+  "periodMin" : 11142
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 563,
+  "name" : "xwb",
+  "cargo" : "LIQUID",
+  "weight" : 39188,
+  "periodMin" : 9797
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 606,
+  "name" : "tkzbhelfic",
+  "cargo" : "LIQUID",
+  "weight" : 36598,
+  "periodMin" : 9149
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 620,
+  "name" : "sreo",
+  "cargo" : "CONTAINER",
+  "weight" : 45951,
+  "periodMin" : 11487
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 672,
+  "name" : "ouaxse",
+  "cargo" : "BULK",
+  "weight" : 51357,
+  "periodMin" : 12839
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 710,
+  "name" : "anrbqq",
+  "cargo" : "LIQUID",
+  "weight" : 36198,
+  "periodMin" : 9049
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 753,
+  "name" : "rgqhnyzbo",
+  "cargo" : "CONTAINER",
+  "weight" : 56360,
+  "periodMin" : 14090
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 786,
+  "name" : "iued",
+  "cargo" : "BULK",
+  "weight" : 40186,
+  "periodMin" : 10046
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 939,
+  "name" : "ionnunwmrv",
+  "cargo" : "BULK",
+  "weight" : 53285,
+  "periodMin" : 13321
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 994,
+  "name" : "vyqcrxkqd",
+  "cargo" : "CONTAINER",
+  "weight" : 48172,
+  "periodMin" : 12043
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1007,
+  "name" : "yoyxldz",
+  "cargo" : "BULK",
+  "weight" : 44291,
+  "periodMin" : 11072
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1066,
+  "name" : "aamvlx",
+  "cargo" : "LIQUID",
+  "weight" : 31812,
+  "periodMin" : 7953
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1227,
+  "name" : "hcncghj",
+  "cargo" : "CONTAINER",
+  "weight" : 48922,
+  "periodMin" : 12230
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1256,
+  "name" : "xmcjcjo",
+  "cargo" : "LIQUID",
+  "weight" : 40961,
+  "periodMin" : 10240
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1257,
+  "name" : "kqz",
+  "cargo" : "CONTAINER",
+  "weight" : 48397,
+  "periodMin" : 12099
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1266,
+  "name" : "fghwtvm",
+  "cargo" : "BULK",
+  "weight" : 49470,
+  "periodMin" : 12367
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1268,
+  "name" : "qvxc",
+  "cargo" : "LIQUID",
+  "weight" : 51781,
+  "periodMin" : 12945
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1300,
+  "name" : "jdkutcseb",
+  "cargo" : "LIQUID",
+  "weight" : 46075,
+  "periodMin" : 11518
+}, {
+  "arrivalDay" : 17,
+  "arrivalTimeMin" : 1317,
+  "name" : "yttzgp",
+  "cargo" : "CONTAINER",
+  "weight" : 47329,
+  "periodMin" : 11832
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 39,
+  "name" : "fmnupaq",
+  "cargo" : "CONTAINER",
+  "weight" : 35744,
+  "periodMin" : 8936
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 40,
+  "name" : "ygscazbosr",
+  "cargo" : "CONTAINER",
+  "weight" : 39519,
+  "periodMin" : 9879
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 73,
+  "name" : "nyx",
+  "cargo" : "CONTAINER",
+  "weight" : 42943,
+  "periodMin" : 10735
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 83,
+  "name" : "vpxcx",
+  "cargo" : "CONTAINER",
+  "weight" : 39098,
+  "periodMin" : 9774
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 124,
+  "name" : "apu",
+  "cargo" : "BULK",
+  "weight" : 45464,
+  "periodMin" : 11366
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 450,
+  "name" : "nhknsqqcaa",
+  "cargo" : "CONTAINER",
+  "weight" : 55853,
+  "periodMin" : 13963
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 472,
+  "name" : "wnretqri",
+  "cargo" : "CONTAINER",
+  "weight" : 37842,
+  "periodMin" : 9460
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 627,
+  "name" : "zoveegiwd",
+  "cargo" : "CONTAINER",
+  "weight" : 47941,
+  "periodMin" : 11985
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 656,
+  "name" : "depeous",
+  "cargo" : "LIQUID",
+  "weight" : 38752,
+  "periodMin" : 9688
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 714,
+  "name" : "jpvljrec",
+  "cargo" : "BULK",
+  "weight" : 43764,
+  "periodMin" : 10941
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 780,
+  "name" : "xqpeowsnxy",
+  "cargo" : "CONTAINER",
+  "weight" : 54221,
+  "periodMin" : 13555
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 807,
+  "name" : "xbr",
+  "cargo" : "CONTAINER",
+  "weight" : 30698,
+  "periodMin" : 7674
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 851,
+  "name" : "qwm",
+  "cargo" : "LIQUID",
+  "weight" : 30924,
+  "periodMin" : 7731
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 918,
+  "name" : "cwwycr",
+  "cargo" : "LIQUID",
+  "weight" : 46918,
+  "periodMin" : 11729
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 919,
+  "name" : "ukzpix",
+  "cargo" : "CONTAINER",
+  "weight" : 51085,
+  "periodMin" : 12771
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 943,
+  "name" : "xbtukj",
+  "cargo" : "LIQUID",
+  "weight" : 52352,
+  "periodMin" : 13088
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 974,
+  "name" : "ewyxisdrxp",
+  "cargo" : "BULK",
+  "weight" : 30905,
+  "periodMin" : 7726
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 980,
+  "name" : "bsnwbu",
+  "cargo" : "BULK",
+  "weight" : 43977,
+  "periodMin" : 10994
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1018,
+  "name" : "oawq",
+  "cargo" : "BULK",
+  "weight" : 50970,
+  "periodMin" : 12742
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1106,
+  "name" : "yjvxwrvju",
+  "cargo" : "CONTAINER",
+  "weight" : 57073,
+  "periodMin" : 14268
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1128,
+  "name" : "gumfyhem",
+  "cargo" : "BULK",
+  "weight" : 51218,
+  "periodMin" : 12804
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1138,
+  "name" : "oubcdvh",
+  "cargo" : "LIQUID",
+  "weight" : 45203,
+  "periodMin" : 11300
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1201,
+  "name" : "vrbvq",
+  "cargo" : "CONTAINER",
+  "weight" : 54563,
+  "periodMin" : 13640
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1210,
+  "name" : "wloccw",
+  "cargo" : "LIQUID",
+  "weight" : 42705,
+  "periodMin" : 10676
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1289,
+  "name" : "xnps",
+  "cargo" : "CONTAINER",
+  "weight" : 45016,
+  "periodMin" : 11254
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1374,
+  "name" : "zesyotmt",
+  "cargo" : "LIQUID",
+  "weight" : 37966,
+  "periodMin" : 9491
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1386,
+  "name" : "qngkh",
+  "cargo" : "BULK",
+  "weight" : 37585,
+  "periodMin" : 9396
+}, {
+  "arrivalDay" : 18,
+  "arrivalTimeMin" : 1396,
+  "name" : "arshpwzb",
+  "cargo" : "BULK",
+  "weight" : 49702,
+  "periodMin" : 12425
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 69,
+  "name" : "gdpvfqpn",
+  "cargo" : "LIQUID",
+  "weight" : 50218,
+  "periodMin" : 12554
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 146,
+  "name" : "mjp",
+  "cargo" : "CONTAINER",
+  "weight" : 45346,
+  "periodMin" : 11336
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 188,
+  "name" : "txcri",
+  "cargo" : "BULK",
+  "weight" : 59980,
+  "periodMin" : 14995
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 192,
+  "name" : "zmfpn",
+  "cargo" : "LIQUID",
+  "weight" : 40724,
+  "periodMin" : 10181
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 279,
+  "name" : "lpxh",
+  "cargo" : "BULK",
+  "weight" : 33447,
+  "periodMin" : 8361
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 297,
+  "name" : "fghtpkft",
+  "cargo" : "BULK",
+  "weight" : 42169,
+  "periodMin" : 10542
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 363,
+  "name" : "fayjuu",
+  "cargo" : "CONTAINER",
+  "weight" : 36512,
+  "periodMin" : 9128
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 386,
+  "name" : "ijuurswa",
+  "cargo" : "LIQUID",
+  "weight" : 31937,
+  "periodMin" : 7984
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 428,
+  "name" : "xzfohlbq",
+  "cargo" : "BULK",
+  "weight" : 44687,
+  "periodMin" : 11171
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 611,
+  "name" : "qppzgglcr",
+  "cargo" : "LIQUID",
+  "weight" : 35677,
+  "periodMin" : 8919
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 674,
+  "name" : "vfp",
+  "cargo" : "BULK",
+  "weight" : 36218,
+  "periodMin" : 9054
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 967,
+  "name" : "qucae",
+  "cargo" : "LIQUID",
+  "weight" : 49234,
+  "periodMin" : 12308
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 1014,
+  "name" : "uwj",
+  "cargo" : "BULK",
+  "weight" : 48817,
+  "periodMin" : 12204
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 1140,
+  "name" : "xmrdn",
+  "cargo" : "CONTAINER",
+  "weight" : 38094,
+  "periodMin" : 9523
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 1165,
+  "name" : "urhk",
+  "cargo" : "CONTAINER",
+  "weight" : 58654,
+  "periodMin" : 14663
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 1224,
+  "name" : "jvlzxyua",
+  "cargo" : "BULK",
+  "weight" : 37113,
+  "periodMin" : 9278
+}, {
+  "arrivalDay" : 19,
+  "arrivalTimeMin" : 1432,
+  "name" : "mollovpsr",
+  "cargo" : "BULK",
+  "weight" : 38505,
+  "periodMin" : 9626
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 64,
+  "name" : "ybzci",
+  "cargo" : "BULK",
+  "weight" : 45938,
+  "periodMin" : 11484
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 220,
+  "name" : "rlat",
+  "cargo" : "LIQUID",
+  "weight" : 51731,
+  "periodMin" : 12932
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 240,
+  "name" : "ewldbcdw",
+  "cargo" : "LIQUID",
+  "weight" : 36708,
+  "periodMin" : 9177
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 306,
+  "name" : "iwemkakh",
+  "cargo" : "BULK",
+  "weight" : 44476,
+  "periodMin" : 11119
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 323,
+  "name" : "abqtpyukcn",
+  "cargo" : "BULK",
+  "weight" : 52792,
+  "periodMin" : 13198
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 390,
+  "name" : "sshbun",
+  "cargo" : "BULK",
+  "weight" : 32574,
+  "periodMin" : 8143
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 420,
+  "name" : "pxjdnvc",
+  "cargo" : "LIQUID",
+  "weight" : 30244,
+  "periodMin" : 7561
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 694,
+  "name" : "jeybvji",
+  "cargo" : "CONTAINER",
+  "weight" : 51933,
+  "periodMin" : 12983
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 717,
+  "name" : "htb",
+  "cargo" : "BULK",
+  "weight" : 55517,
+  "periodMin" : 13879
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 842,
+  "name" : "kwhzevr",
+  "cargo" : "CONTAINER",
+  "weight" : 54974,
+  "periodMin" : 13743
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 1049,
+  "name" : "ddkccpei",
+  "cargo" : "BULK",
+  "weight" : 52752,
+  "periodMin" : 13188
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 1068,
+  "name" : "uggwuze",
+  "cargo" : "LIQUID",
+  "weight" : 30178,
+  "periodMin" : 7544
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 1084,
+  "name" : "giwhw",
+  "cargo" : "BULK",
+  "weight" : 47511,
+  "periodMin" : 11877
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 1115,
+  "name" : "kptxk",
+  "cargo" : "BULK",
+  "weight" : 43397,
+  "periodMin" : 10849
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 1318,
+  "name" : "tjdw",
+  "cargo" : "LIQUID",
+  "weight" : 31110,
+  "periodMin" : 7777
+}, {
+  "arrivalDay" : 20,
+  "arrivalTimeMin" : 1394,
+  "name" : "wccerlgdtz",
+  "cargo" : "LIQUID",
+  "weight" : 52734,
+  "periodMin" : 13183
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 153,
+  "name" : "wyidok",
+  "cargo" : "BULK",
+  "weight" : 44413,
+  "periodMin" : 11103
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 272,
+  "name" : "nrfemkaji",
+  "cargo" : "CONTAINER",
+  "weight" : 56827,
+  "periodMin" : 14206
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 312,
+  "name" : "cioem",
+  "cargo" : "CONTAINER",
+  "weight" : 50957,
+  "periodMin" : 12739
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 459,
+  "name" : "qfympz",
+  "cargo" : "CONTAINER",
+  "weight" : 59591,
+  "periodMin" : 14897
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 483,
+  "name" : "gijscbk",
+  "cargo" : "CONTAINER",
+  "weight" : 47304,
+  "periodMin" : 11826
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 624,
+  "name" : "sldgmsvh",
+  "cargo" : "CONTAINER",
+  "weight" : 56659,
+  "periodMin" : 14164
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 655,
+  "name" : "vubkacmlx",
+  "cargo" : "CONTAINER",
+  "weight" : 37332,
+  "periodMin" : 9333
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 685,
+  "name" : "ybubs",
+  "cargo" : "LIQUID",
+  "weight" : 52672,
+  "periodMin" : 13168
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 719,
+  "name" : "sbuwqgvwj",
+  "cargo" : "CONTAINER",
+  "weight" : 41307,
+  "periodMin" : 10326
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 754,
+  "name" : "fuder",
+  "cargo" : "BULK",
+  "weight" : 52975,
+  "periodMin" : 13243
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 877,
+  "name" : "qqijre",
+  "cargo" : "BULK",
+  "weight" : 42636,
+  "periodMin" : 10659
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 892,
+  "name" : "bprizl",
+  "cargo" : "LIQUID",
+  "weight" : 59737,
+  "periodMin" : 14934
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 993,
+  "name" : "jetwhx",
+  "cargo" : "LIQUID",
+  "weight" : 31609,
+  "periodMin" : 7902
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1066,
+  "name" : "amrpox",
+  "cargo" : "BULK",
+  "weight" : 55817,
+  "periodMin" : 13954
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1186,
+  "name" : "fsavoeqphf",
+  "cargo" : "CONTAINER",
+  "weight" : 36182,
+  "periodMin" : 9045
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1202,
+  "name" : "xsqv",
+  "cargo" : "BULK",
+  "weight" : 35847,
+  "periodMin" : 8961
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1205,
+  "name" : "hwophtaqk",
+  "cargo" : "LIQUID",
+  "weight" : 44796,
+  "periodMin" : 11199
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1215,
+  "name" : "lufsjofn",
+  "cargo" : "LIQUID",
+  "weight" : 57861,
+  "periodMin" : 14465
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1215,
+  "name" : "rlegkyhz",
+  "cargo" : "CONTAINER",
+  "weight" : 31336,
+  "periodMin" : 7834
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1264,
+  "name" : "wuvha",
+  "cargo" : "BULK",
+  "weight" : 46563,
+  "periodMin" : 11640
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1385,
+  "name" : "fpl",
+  "cargo" : "LIQUID",
+  "weight" : 57672,
+  "periodMin" : 14418
+}, {
+  "arrivalDay" : 21,
+  "arrivalTimeMin" : 1413,
+  "name" : "fzvrw",
+  "cargo" : "LIQUID",
+  "weight" : 51367,
+  "periodMin" : 12841
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 68,
+  "name" : "wgvw",
+  "cargo" : "LIQUID",
+  "weight" : 37413,
+  "periodMin" : 9353
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 80,
+  "name" : "ngfwbkhs",
+  "cargo" : "BULK",
+  "weight" : 31539,
+  "periodMin" : 7884
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 133,
+  "name" : "prwogcev",
+  "cargo" : "BULK",
+  "weight" : 42911,
+  "periodMin" : 10727
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 178,
+  "name" : "edn",
+  "cargo" : "CONTAINER",
+  "weight" : 42864,
+  "periodMin" : 10716
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 226,
+  "name" : "dadrofwrqy",
+  "cargo" : "CONTAINER",
+  "weight" : 55994,
+  "periodMin" : 13998
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 404,
+  "name" : "zxl",
+  "cargo" : "BULK",
+  "weight" : 52023,
+  "periodMin" : 13005
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 459,
+  "name" : "wgws",
+  "cargo" : "LIQUID",
+  "weight" : 37896,
+  "periodMin" : 9474
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 468,
+  "name" : "tabtwvn",
+  "cargo" : "LIQUID",
+  "weight" : 35621,
+  "periodMin" : 8905
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 472,
+  "name" : "guhkupkj",
+  "cargo" : "CONTAINER",
+  "weight" : 55817,
+  "periodMin" : 13954
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 506,
+  "name" : "ynvcpptc",
+  "cargo" : "BULK",
+  "weight" : 49459,
+  "periodMin" : 12364
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 605,
+  "name" : "noaayhdz",
+  "cargo" : "BULK",
+  "weight" : 44916,
+  "periodMin" : 11229
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 740,
+  "name" : "sbuwclsrn",
+  "cargo" : "LIQUID",
+  "weight" : 50538,
+  "periodMin" : 12634
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 765,
+  "name" : "sex",
+  "cargo" : "BULK",
+  "weight" : 42784,
+  "periodMin" : 10696
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 827,
+  "name" : "tanigkmnag",
+  "cargo" : "LIQUID",
+  "weight" : 56491,
+  "periodMin" : 14122
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 872,
+  "name" : "sdnkjhba",
+  "cargo" : "BULK",
+  "weight" : 57925,
+  "periodMin" : 14481
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 947,
+  "name" : "bnp",
+  "cargo" : "BULK",
+  "weight" : 41905,
+  "periodMin" : 10476
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 954,
+  "name" : "otqqoi",
+  "cargo" : "BULK",
+  "weight" : 58690,
+  "periodMin" : 14672
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1027,
+  "name" : "ypmifees",
+  "cargo" : "BULK",
+  "weight" : 33612,
+  "periodMin" : 8403
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1031,
+  "name" : "ecfdyayv",
+  "cargo" : "CONTAINER",
+  "weight" : 50929,
+  "periodMin" : 12732
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1073,
+  "name" : "zcdbalazh",
+  "cargo" : "CONTAINER",
+  "weight" : 44355,
+  "periodMin" : 11088
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1078,
+  "name" : "rlsbofeqb",
+  "cargo" : "BULK",
+  "weight" : 54366,
+  "periodMin" : 13591
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1103,
+  "name" : "wefgykltxf",
+  "cargo" : "CONTAINER",
+  "weight" : 34726,
+  "periodMin" : 8681
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1124,
+  "name" : "elqblcy",
+  "cargo" : "LIQUID",
+  "weight" : 33837,
+  "periodMin" : 8459
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1266,
+  "name" : "qbglmsdw",
+  "cargo" : "CONTAINER",
+  "weight" : 54800,
+  "periodMin" : 13700
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1374,
+  "name" : "zbudmxagaz",
+  "cargo" : "LIQUID",
+  "weight" : 56937,
+  "periodMin" : 14234
+}, {
+  "arrivalDay" : 22,
+  "arrivalTimeMin" : 1398,
+  "name" : "wzgiwc",
+  "cargo" : "BULK",
+  "weight" : 42419,
+  "periodMin" : 10604
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 74,
+  "name" : "ayh",
+  "cargo" : "LIQUID",
+  "weight" : 30036,
+  "periodMin" : 7509
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 90,
+  "name" : "utnljxxyey",
+  "cargo" : "BULK",
+  "weight" : 39437,
+  "periodMin" : 9859
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 149,
+  "name" : "hod",
+  "cargo" : "CONTAINER",
+  "weight" : 50370,
+  "periodMin" : 12592
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 246,
+  "name" : "rqsolrxdb",
+  "cargo" : "BULK",
+  "weight" : 54951,
+  "periodMin" : 13737
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 270,
+  "name" : "yaeojk",
+  "cargo" : "CONTAINER",
+  "weight" : 45360,
+  "periodMin" : 11340
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 360,
+  "name" : "ott",
+  "cargo" : "BULK",
+  "weight" : 39419,
+  "periodMin" : 9854
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 384,
+  "name" : "iwzsfb",
+  "cargo" : "CONTAINER",
+  "weight" : 56522,
+  "periodMin" : 14130
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 388,
+  "name" : "vimun",
+  "cargo" : "LIQUID",
+  "weight" : 41198,
+  "periodMin" : 10299
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 497,
+  "name" : "lkffoiktbs",
+  "cargo" : "CONTAINER",
+  "weight" : 32675,
+  "periodMin" : 8168
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 584,
+  "name" : "sxfiwogftz",
+  "cargo" : "LIQUID",
+  "weight" : 51053,
+  "periodMin" : 12763
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 649,
+  "name" : "adurmheze",
+  "cargo" : "CONTAINER",
+  "weight" : 34005,
+  "periodMin" : 8501
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 689,
+  "name" : "ghqo",
+  "cargo" : "BULK",
+  "weight" : 54521,
+  "periodMin" : 13630
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 754,
+  "name" : "gcbr",
+  "cargo" : "CONTAINER",
+  "weight" : 52511,
+  "periodMin" : 13127
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 816,
+  "name" : "witgquuzd",
+  "cargo" : "BULK",
+  "weight" : 42988,
+  "periodMin" : 10747
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 834,
+  "name" : "agof",
+  "cargo" : "CONTAINER",
+  "weight" : 41144,
+  "periodMin" : 10286
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 909,
+  "name" : "qqerfv",
+  "cargo" : "CONTAINER",
+  "weight" : 47537,
+  "periodMin" : 11884
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 935,
+  "name" : "birifloy",
+  "cargo" : "BULK",
+  "weight" : 41481,
+  "periodMin" : 10370
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 948,
+  "name" : "mjpzhuyb",
+  "cargo" : "LIQUID",
+  "weight" : 49778,
+  "periodMin" : 12444
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 1049,
+  "name" : "ajfnjncmwv",
+  "cargo" : "CONTAINER",
+  "weight" : 50408,
+  "periodMin" : 12602
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 1070,
+  "name" : "podolvo",
+  "cargo" : "LIQUID",
+  "weight" : 40769,
+  "periodMin" : 10192
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 1074,
+  "name" : "qdxmwbuvfz",
+  "cargo" : "CONTAINER",
+  "weight" : 53556,
+  "periodMin" : 13389
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 1161,
+  "name" : "gzbqxxv",
+  "cargo" : "LIQUID",
+  "weight" : 31575,
+  "periodMin" : 7893
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 1393,
+  "name" : "lilmehpce",
+  "cargo" : "LIQUID",
+  "weight" : 49783,
+  "periodMin" : 12445
+}, {
+  "arrivalDay" : 23,
+  "arrivalTimeMin" : 1429,
+  "name" : "gpduitufn",
+  "cargo" : "CONTAINER",
+  "weight" : 37029,
+  "periodMin" : 9257
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 70,
+  "name" : "uvzazik",
+  "cargo" : "BULK",
+  "weight" : 59355,
+  "periodMin" : 14838
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 103,
+  "name" : "wafria",
+  "cargo" : "CONTAINER",
+  "weight" : 40822,
+  "periodMin" : 10205
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 104,
+  "name" : "bzij",
+  "cargo" : "CONTAINER",
+  "weight" : 53648,
+  "periodMin" : 13412
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 317,
+  "name" : "aptbqv",
+  "cargo" : "CONTAINER",
+  "weight" : 48666,
+  "periodMin" : 12166
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 564,
+  "name" : "kmbxxz",
+  "cargo" : "LIQUID",
+  "weight" : 39236,
+  "periodMin" : 9809
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 698,
+  "name" : "mwsrm",
+  "cargo" : "BULK",
+  "weight" : 47824,
+  "periodMin" : 11956
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 703,
+  "name" : "oyqlalbk",
+  "cargo" : "CONTAINER",
+  "weight" : 55701,
+  "periodMin" : 13925
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 751,
+  "name" : "vgrxag",
+  "cargo" : "LIQUID",
+  "weight" : 30460,
+  "periodMin" : 7615
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 796,
+  "name" : "egljfzpv",
+  "cargo" : "CONTAINER",
+  "weight" : 56803,
+  "periodMin" : 14200
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 880,
+  "name" : "wvn",
+  "cargo" : "LIQUID",
+  "weight" : 35183,
+  "periodMin" : 8795
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 930,
+  "name" : "ewaat",
+  "cargo" : "BULK",
+  "weight" : 50620,
+  "periodMin" : 12655
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 964,
+  "name" : "blltporas",
+  "cargo" : "CONTAINER",
+  "weight" : 32846,
+  "periodMin" : 8211
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 971,
+  "name" : "miduula",
+  "cargo" : "LIQUID",
+  "weight" : 54261,
+  "periodMin" : 13565
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 974,
+  "name" : "klyw",
+  "cargo" : "CONTAINER",
+  "weight" : 58151,
+  "periodMin" : 14537
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 996,
+  "name" : "fhlgjhu",
+  "cargo" : "BULK",
+  "weight" : 38004,
+  "periodMin" : 9501
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 1063,
+  "name" : "gemixfd",
+  "cargo" : "CONTAINER",
+  "weight" : 40551,
+  "periodMin" : 10137
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 1300,
+  "name" : "pkjp",
+  "cargo" : "BULK",
+  "weight" : 33400,
+  "periodMin" : 8350
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 1332,
+  "name" : "xat",
+  "cargo" : "LIQUID",
+  "weight" : 46349,
+  "periodMin" : 11587
+}, {
+  "arrivalDay" : 24,
+  "arrivalTimeMin" : 1439,
+  "name" : "jfnb",
+  "cargo" : "LIQUID",
+  "weight" : 59899,
+  "periodMin" : 14974
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 38,
+  "name" : "kgfx",
+  "cargo" : "CONTAINER",
+  "weight" : 44245,
+  "periodMin" : 11061
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 180,
+  "name" : "zmkedel",
+  "cargo" : "LIQUID",
+  "weight" : 37566,
+  "periodMin" : 9391
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 197,
+  "name" : "ogorg",
+  "cargo" : "CONTAINER",
+  "weight" : 34518,
+  "periodMin" : 8629
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 328,
+  "name" : "kolc",
+  "cargo" : "CONTAINER",
+  "weight" : 36484,
+  "periodMin" : 9121
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 464,
+  "name" : "hmov",
+  "cargo" : "LIQUID",
+  "weight" : 58179,
+  "periodMin" : 14544
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 596,
+  "name" : "elewh",
+  "cargo" : "BULK",
+  "weight" : 48122,
+  "periodMin" : 12030
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 641,
+  "name" : "jryap",
+  "cargo" : "BULK",
+  "weight" : 41254,
+  "periodMin" : 10313
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 666,
+  "name" : "bsa",
+  "cargo" : "CONTAINER",
+  "weight" : 32902,
+  "periodMin" : 8225
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 673,
+  "name" : "gkfdgohppp",
+  "cargo" : "CONTAINER",
+  "weight" : 52665,
+  "periodMin" : 13166
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 675,
+  "name" : "lrldek",
+  "cargo" : "CONTAINER",
+  "weight" : 33661,
+  "periodMin" : 8415
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 972,
+  "name" : "mfxsjpiev",
+  "cargo" : "BULK",
+  "weight" : 44869,
+  "periodMin" : 11217
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 992,
+  "name" : "cob",
+  "cargo" : "CONTAINER",
+  "weight" : 48016,
+  "periodMin" : 12004
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 992,
+  "name" : "yvokxby",
+  "cargo" : "LIQUID",
+  "weight" : 53014,
+  "periodMin" : 13253
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1019,
+  "name" : "dasscs",
+  "cargo" : "BULK",
+  "weight" : 59402,
+  "periodMin" : 14850
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1033,
+  "name" : "norajtwaoj",
+  "cargo" : "LIQUID",
+  "weight" : 50466,
+  "periodMin" : 12616
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1039,
+  "name" : "poockrwdm",
+  "cargo" : "LIQUID",
+  "weight" : 39671,
+  "periodMin" : 9917
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1076,
+  "name" : "hls",
+  "cargo" : "BULK",
+  "weight" : 35031,
+  "periodMin" : 8757
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1232,
+  "name" : "xdactqu",
+  "cargo" : "BULK",
+  "weight" : 55680,
+  "periodMin" : 13920
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1300,
+  "name" : "hvwzp",
+  "cargo" : "CONTAINER",
+  "weight" : 54903,
+  "periodMin" : 13725
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1363,
+  "name" : "ehte",
+  "cargo" : "LIQUID",
+  "weight" : 50383,
+  "periodMin" : 12595
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1376,
+  "name" : "cocnketqqp",
+  "cargo" : "CONTAINER",
+  "weight" : 46682,
+  "periodMin" : 11670
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1380,
+  "name" : "cawi",
+  "cargo" : "BULK",
+  "weight" : 57961,
+  "periodMin" : 14490
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1389,
+  "name" : "fxsrftr",
+  "cargo" : "CONTAINER",
+  "weight" : 43346,
+  "periodMin" : 10836
+}, {
+  "arrivalDay" : 25,
+  "arrivalTimeMin" : 1404,
+  "name" : "mmyouuk",
+  "cargo" : "BULK",
+  "weight" : 50317,
+  "periodMin" : 12579
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 39,
+  "name" : "onyiveskb",
+  "cargo" : "CONTAINER",
+  "weight" : 42983,
+  "periodMin" : 10745
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 202,
+  "name" : "jqu",
+  "cargo" : "LIQUID",
+  "weight" : 31430,
+  "periodMin" : 7857
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 203,
+  "name" : "quqdfwox",
+  "cargo" : "BULK",
+  "weight" : 38774,
+  "periodMin" : 9693
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 417,
+  "name" : "sekhdpo",
+  "cargo" : "LIQUID",
+  "weight" : 46162,
+  "periodMin" : 11540
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 527,
+  "name" : "vanej",
+  "cargo" : "LIQUID",
+  "weight" : 46025,
+  "periodMin" : 11506
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 611,
+  "name" : "duvuezjaww",
+  "cargo" : "LIQUID",
+  "weight" : 53928,
+  "periodMin" : 13482
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 920,
+  "name" : "tphcxirql",
+  "cargo" : "CONTAINER",
+  "weight" : 34385,
+  "periodMin" : 8596
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 926,
+  "name" : "jhn",
+  "cargo" : "CONTAINER",
+  "weight" : 42838,
+  "periodMin" : 10709
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 1006,
+  "name" : "pxyuwc",
+  "cargo" : "CONTAINER",
+  "weight" : 30089,
+  "periodMin" : 7522
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 1028,
+  "name" : "mftincf",
+  "cargo" : "LIQUID",
+  "weight" : 32884,
+  "periodMin" : 8221
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 1040,
+  "name" : "qtrq",
+  "cargo" : "LIQUID",
+  "weight" : 48258,
+  "periodMin" : 12064
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 1180,
+  "name" : "cype",
+  "cargo" : "CONTAINER",
+  "weight" : 51924,
+  "periodMin" : 12981
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 1300,
+  "name" : "dtrvwph",
+  "cargo" : "BULK",
+  "weight" : 32734,
+  "periodMin" : 8183
+}, {
+  "arrivalDay" : 26,
+  "arrivalTimeMin" : 1326,
+  "name" : "hnzjxstb",
+  "cargo" : "LIQUID",
+  "weight" : 51446,
+  "periodMin" : 12861
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 27,
+  "name" : "hjwnlv",
+  "cargo" : "BULK",
+  "weight" : 34833,
+  "periodMin" : 8708
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 31,
+  "name" : "ntzoineggr",
+  "cargo" : "CONTAINER",
+  "weight" : 39991,
+  "periodMin" : 9997
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 69,
+  "name" : "wjoexjchf",
+  "cargo" : "LIQUID",
+  "weight" : 54968,
+  "periodMin" : 13742
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 76,
+  "name" : "gqdqjv",
+  "cargo" : "BULK",
+  "weight" : 42587,
+  "periodMin" : 10646
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 168,
+  "name" : "wzx",
+  "cargo" : "LIQUID",
+  "weight" : 55386,
+  "periodMin" : 13846
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 185,
+  "name" : "ygrggl",
+  "cargo" : "LIQUID",
+  "weight" : 33176,
+  "periodMin" : 8294
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 191,
+  "name" : "raxs",
+  "cargo" : "BULK",
+  "weight" : 39723,
+  "periodMin" : 9930
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 193,
+  "name" : "muk",
+  "cargo" : "LIQUID",
+  "weight" : 38357,
+  "periodMin" : 9589
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 227,
+  "name" : "aicv",
+  "cargo" : "BULK",
+  "weight" : 52203,
+  "periodMin" : 13050
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 266,
+  "name" : "sfqnmdml",
+  "cargo" : "BULK",
+  "weight" : 34671,
+  "periodMin" : 8667
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 303,
+  "name" : "hess",
+  "cargo" : "BULK",
+  "weight" : 36906,
+  "periodMin" : 9226
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 346,
+  "name" : "kihmeyrwbn",
+  "cargo" : "LIQUID",
+  "weight" : 59975,
+  "periodMin" : 14993
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 363,
+  "name" : "gjnhig",
+  "cargo" : "BULK",
+  "weight" : 39829,
+  "periodMin" : 9957
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 437,
+  "name" : "rdxts",
+  "cargo" : "BULK",
+  "weight" : 53166,
+  "periodMin" : 13291
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 456,
+  "name" : "oqrpdivjb",
+  "cargo" : "LIQUID",
+  "weight" : 50333,
+  "periodMin" : 12583
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 467,
+  "name" : "fuyt",
+  "cargo" : "LIQUID",
+  "weight" : 55760,
+  "periodMin" : 13940
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 477,
+  "name" : "uctjzuo",
+  "cargo" : "LIQUID",
+  "weight" : 39045,
+  "periodMin" : 9761
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 515,
+  "name" : "akllm",
+  "cargo" : "LIQUID",
+  "weight" : 43777,
+  "periodMin" : 10944
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 572,
+  "name" : "evq",
+  "cargo" : "LIQUID",
+  "weight" : 53473,
+  "periodMin" : 13368
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 610,
+  "name" : "mysnltdfd",
+  "cargo" : "CONTAINER",
+  "weight" : 49116,
+  "periodMin" : 12279
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 620,
+  "name" : "otp",
+  "cargo" : "CONTAINER",
+  "weight" : 37416,
+  "periodMin" : 9354
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 622,
+  "name" : "bdkyyfumsb",
+  "cargo" : "BULK",
+  "weight" : 53653,
+  "periodMin" : 13413
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 711,
+  "name" : "izmqjemsc",
+  "cargo" : "CONTAINER",
+  "weight" : 34216,
+  "periodMin" : 8554
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 790,
+  "name" : "jiddix",
+  "cargo" : "LIQUID",
+  "weight" : 59969,
+  "periodMin" : 14992
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 797,
+  "name" : "kak",
+  "cargo" : "BULK",
+  "weight" : 46166,
+  "periodMin" : 11541
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 798,
+  "name" : "vivj",
+  "cargo" : "LIQUID",
+  "weight" : 30208,
+  "periodMin" : 7552
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 822,
+  "name" : "lqamrtbet",
+  "cargo" : "LIQUID",
+  "weight" : 45669,
+  "periodMin" : 11417
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 857,
+  "name" : "kpxqm",
+  "cargo" : "BULK",
+  "weight" : 37240,
+  "periodMin" : 9310
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 865,
+  "name" : "inuftrv",
+  "cargo" : "CONTAINER",
+  "weight" : 55922,
+  "periodMin" : 13980
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 915,
+  "name" : "dfphnbwu",
+  "cargo" : "LIQUID",
+  "weight" : 45386,
+  "periodMin" : 11346
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 1076,
+  "name" : "obwzrn",
+  "cargo" : "BULK",
+  "weight" : 48878,
+  "periodMin" : 12219
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 1090,
+  "name" : "dbgrokadc",
+  "cargo" : "CONTAINER",
+  "weight" : 44673,
+  "periodMin" : 11168
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 1171,
+  "name" : "czsfnzceo",
+  "cargo" : "BULK",
+  "weight" : 40200,
+  "periodMin" : 10050
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 1218,
+  "name" : "ikesqcv",
+  "cargo" : "LIQUID",
+  "weight" : 33221,
+  "periodMin" : 8305
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 1229,
+  "name" : "zntd",
+  "cargo" : "BULK",
+  "weight" : 39884,
+  "periodMin" : 9971
+}, {
+  "arrivalDay" : 27,
+  "arrivalTimeMin" : 1405,
+  "name" : "eiga",
+  "cargo" : "BULK",
+  "weight" : 50019,
+  "periodMin" : 12504
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 5,
+  "name" : "svgzhqcdro",
+  "cargo" : "BULK",
+  "weight" : 30603,
+  "periodMin" : 7650
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 36,
+  "name" : "qxwhl",
+  "cargo" : "LIQUID",
+  "weight" : 53929,
+  "periodMin" : 13482
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 59,
+  "name" : "vlvzwfeu",
+  "cargo" : "BULK",
+  "weight" : 34666,
+  "periodMin" : 8666
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 140,
+  "name" : "kzdy",
+  "cargo" : "LIQUID",
+  "weight" : 39885,
+  "periodMin" : 9971
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 201,
+  "name" : "ikddiz",
+  "cargo" : "CONTAINER",
+  "weight" : 50925,
+  "periodMin" : 12731
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 204,
+  "name" : "zmz",
+  "cargo" : "BULK",
+  "weight" : 33908,
+  "periodMin" : 8477
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 236,
+  "name" : "nqry",
+  "cargo" : "CONTAINER",
+  "weight" : 48411,
+  "periodMin" : 12102
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 277,
+  "name" : "zeewkbey",
+  "cargo" : "CONTAINER",
+  "weight" : 30776,
+  "periodMin" : 7694
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 320,
+  "name" : "kbuyzjpgx",
+  "cargo" : "CONTAINER",
+  "weight" : 39962,
+  "periodMin" : 9990
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 412,
+  "name" : "hzuedhquz",
+  "cargo" : "CONTAINER",
+  "weight" : 46049,
+  "periodMin" : 11512
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 422,
+  "name" : "zsrdc",
+  "cargo" : "BULK",
+  "weight" : 59657,
+  "periodMin" : 14914
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 440,
+  "name" : "lhlc",
+  "cargo" : "LIQUID",
+  "weight" : 57048,
+  "periodMin" : 14262
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 444,
+  "name" : "qalg",
+  "cargo" : "LIQUID",
+  "weight" : 42506,
+  "periodMin" : 10626
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 504,
+  "name" : "xtc",
+  "cargo" : "BULK",
+  "weight" : 58809,
+  "periodMin" : 14702
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 550,
+  "name" : "uhu",
+  "cargo" : "LIQUID",
+  "weight" : 58250,
+  "periodMin" : 14562
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 723,
+  "name" : "irynug",
+  "cargo" : "CONTAINER",
+  "weight" : 47574,
+  "periodMin" : 11893
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 860,
+  "name" : "arhwhi",
+  "cargo" : "BULK",
+  "weight" : 41874,
+  "periodMin" : 10468
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 884,
+  "name" : "osujtg",
+  "cargo" : "LIQUID",
+  "weight" : 38930,
+  "periodMin" : 9732
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 898,
+  "name" : "tvfwhrfxx",
+  "cargo" : "LIQUID",
+  "weight" : 54245,
+  "periodMin" : 13561
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 962,
+  "name" : "npdtjvatcm",
+  "cargo" : "LIQUID",
+  "weight" : 52987,
+  "periodMin" : 13246
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 1119,
+  "name" : "hpqcgk",
+  "cargo" : "LIQUID",
+  "weight" : 44329,
+  "periodMin" : 11082
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 1155,
+  "name" : "ziewx",
+  "cargo" : "BULK",
+  "weight" : 40449,
+  "periodMin" : 10112
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 1191,
+  "name" : "owhaxf",
+  "cargo" : "BULK",
+  "weight" : 46059,
+  "periodMin" : 11514
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 1227,
+  "name" : "vto",
+  "cargo" : "LIQUID",
+  "weight" : 47319,
+  "periodMin" : 11829
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 1244,
+  "name" : "rbdbycjpp",
+  "cargo" : "CONTAINER",
+  "weight" : 42039,
+  "periodMin" : 10509
+}, {
+  "arrivalDay" : 28,
+  "arrivalTimeMin" : 1377,
+  "name" : "plxkhdcas",
+  "cargo" : "BULK",
+  "weight" : 53367,
+  "periodMin" : 13341
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 111,
+  "name" : "totsfyh",
+  "cargo" : "LIQUID",
+  "weight" : 47082,
+  "periodMin" : 11770
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 213,
+  "name" : "jkadsod",
+  "cargo" : "LIQUID",
+  "weight" : 48112,
+  "periodMin" : 12028
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 306,
+  "name" : "txdd",
+  "cargo" : "BULK",
+  "weight" : 53978,
+  "periodMin" : 13494
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 343,
+  "name" : "hkjwim",
+  "cargo" : "LIQUID",
+  "weight" : 49879,
+  "periodMin" : 12469
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 398,
+  "name" : "xloahtjzj",
+  "cargo" : "BULK",
+  "weight" : 52660,
+  "periodMin" : 13165
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 530,
+  "name" : "cschre",
+  "cargo" : "LIQUID",
+  "weight" : 47126,
+  "periodMin" : 11781
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 532,
+  "name" : "hpozg",
+  "cargo" : "BULK",
+  "weight" : 44679,
+  "periodMin" : 11169
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 592,
+  "name" : "jyjijtmrno",
+  "cargo" : "BULK",
+  "weight" : 39921,
+  "periodMin" : 9980
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 642,
+  "name" : "ukxgxtv",
+  "cargo" : "BULK",
+  "weight" : 34054,
+  "periodMin" : 8513
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 643,
+  "name" : "qzia",
+  "cargo" : "CONTAINER",
+  "weight" : 59121,
+  "periodMin" : 14780
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 645,
+  "name" : "wtwua",
+  "cargo" : "BULK",
+  "weight" : 50492,
+  "periodMin" : 12623
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 733,
+  "name" : "xbsdat",
+  "cargo" : "LIQUID",
+  "weight" : 40909,
+  "periodMin" : 10227
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 747,
+  "name" : "ubrpf",
+  "cargo" : "LIQUID",
+  "weight" : 38948,
+  "periodMin" : 9737
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 749,
+  "name" : "frms",
+  "cargo" : "BULK",
+  "weight" : 55427,
+  "periodMin" : 13856
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 810,
+  "name" : "xilu",
+  "cargo" : "BULK",
+  "weight" : 42552,
+  "periodMin" : 10638
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 845,
+  "name" : "iqljkhol",
+  "cargo" : "LIQUID",
+  "weight" : 58477,
+  "periodMin" : 14619
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 883,
+  "name" : "vbnlhu",
+  "cargo" : "CONTAINER",
+  "weight" : 38311,
+  "periodMin" : 9577
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 909,
+  "name" : "nufdpgmd",
+  "cargo" : "BULK",
+  "weight" : 31749,
+  "periodMin" : 7937
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 945,
+  "name" : "gzhunbat",
+  "cargo" : "BULK",
+  "weight" : 52316,
+  "periodMin" : 13079
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 1062,
+  "name" : "jcdgd",
+  "cargo" : "CONTAINER",
+  "weight" : 54080,
+  "periodMin" : 13520
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 1070,
+  "name" : "vykxpcwaag",
+  "cargo" : "LIQUID",
+  "weight" : 44404,
+  "periodMin" : 11101
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 1214,
+  "name" : "qdrnfalil",
+  "cargo" : "CONTAINER",
+  "weight" : 40799,
+  "periodMin" : 10199
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 1351,
+  "name" : "hbjpsw",
+  "cargo" : "LIQUID",
+  "weight" : 45366,
+  "periodMin" : 11341
+}, {
+  "arrivalDay" : 29,
+  "arrivalTimeMin" : 1363,
+  "name" : "okyt",
+  "cargo" : "BULK",
+  "weight" : 50614,
+  "periodMin" : 12653
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 56,
+  "name" : "mppmnbnrra",
+  "cargo" : "LIQUID",
+  "weight" : 58490,
+  "periodMin" : 14622
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 62,
+  "name" : "nxapwsdw",
+  "cargo" : "BULK",
+  "weight" : 40085,
+  "periodMin" : 10021
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 320,
+  "name" : "kwsn",
+  "cargo" : "CONTAINER",
+  "weight" : 54643,
+  "periodMin" : 13660
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 326,
+  "name" : "ezjcjouv",
+  "cargo" : "BULK",
+  "weight" : 30829,
+  "periodMin" : 7707
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 432,
+  "name" : "eccr",
+  "cargo" : "CONTAINER",
+  "weight" : 44673,
+  "periodMin" : 11168
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 451,
+  "name" : "ypqsh",
+  "cargo" : "LIQUID",
+  "weight" : 41450,
+  "periodMin" : 10362
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 469,
+  "name" : "mpovsrxkz",
+  "cargo" : "CONTAINER",
+  "weight" : 41473,
+  "periodMin" : 10368
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 476,
+  "name" : "mfydxwnax",
+  "cargo" : "LIQUID",
+  "weight" : 51771,
+  "periodMin" : 12942
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 480,
+  "name" : "zkjdaguer",
+  "cargo" : "BULK",
+  "weight" : 54091,
+  "periodMin" : 13522
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 527,
+  "name" : "gtubp",
+  "cargo" : "LIQUID",
+  "weight" : 51977,
+  "periodMin" : 12994
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 543,
+  "name" : "xqzbz",
+  "cargo" : "CONTAINER",
+  "weight" : 40699,
+  "periodMin" : 10174
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 551,
+  "name" : "cadved",
+  "cargo" : "CONTAINER",
+  "weight" : 45648,
+  "periodMin" : 11412
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 553,
+  "name" : "dnt",
+  "cargo" : "CONTAINER",
+  "weight" : 57357,
+  "periodMin" : 14339
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 627,
+  "name" : "ksediunwo",
+  "cargo" : "LIQUID",
+  "weight" : 54785,
+  "periodMin" : 13696
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 830,
+  "name" : "ykaxyhfoig",
+  "cargo" : "BULK",
+  "weight" : 41875,
+  "periodMin" : 10468
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 863,
+  "name" : "bomip",
+  "cargo" : "BULK",
+  "weight" : 35009,
+  "periodMin" : 8752
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 887,
+  "name" : "ktjwgz",
+  "cargo" : "BULK",
+  "weight" : 48418,
+  "periodMin" : 12104
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 887,
+  "name" : "bzb",
+  "cargo" : "BULK",
+  "weight" : 49271,
+  "periodMin" : 12317
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 902,
+  "name" : "yxn",
+  "cargo" : "BULK",
+  "weight" : 38931,
+  "periodMin" : 9732
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 1050,
+  "name" : "fkdexaub",
+  "cargo" : "BULK",
+  "weight" : 42445,
+  "periodMin" : 10611
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 1133,
+  "name" : "wgsanois",
+  "cargo" : "CONTAINER",
+  "weight" : 57683,
+  "periodMin" : 14420
+}, {
+  "arrivalDay" : 30,
+  "arrivalTimeMin" : 1201,
+  "name" : "frksgjrcu",
+  "cargo" : "CONTAINER",
+  "weight" : 34843,
+  "periodMin" : 8710
+} ]

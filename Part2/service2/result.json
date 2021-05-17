@@ -1,0 +1,14 @@
+{
+  "number" : 911,
+  "averageLengthQueue" : 15,
+  "averageTimeInQueue" : 81,
+  "maxDelayInUnloading" : 1440,
+  "averageDelayInUnloading" : 726,
+  "penaltyAmount" : 82900,
+  "numberOfBulkCranes" : 5,
+  "numberOfLiquidCranes" : 4,
+  "numberOfContainerCranes" : 6,
+  "penaltyBulk" : 29200,
+  "penaltyLiquid" : 28500,
+  "penaltyContainer" : 25200
+}
